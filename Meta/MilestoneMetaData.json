@@ -1,0 +1,310 @@
+﻿[{
+    "Tiers": {
+        "MI-B-17": 3,
+        "MI-B-18": 5,
+        "MI-B-19": 10
+    },
+    "Disabled": false,
+    "Redirector": "",
+    "FriendlyName": "Revive Self N Times",
+    "MatchEventId": "ME-B-1",
+    "AdditionalEvents": null
+}, {
+    "Tiers": {
+        "MI-B-29": 30,
+        "MI-B-30": 45,
+        "MI-B-31": 60
+    },
+    "Disabled": false,
+    "Redirector": "",
+    "FriendlyName": "Hold Tether N Seconds",
+    "MatchEventId": "ME-B-10",
+    "AdditionalEvents": null
+}, {
+    "Tiers": {
+        "MI-B-7": 5,
+        "MI-B-8": 10,
+        "MI-B-9": 20
+    },
+    "Disabled": false,
+    "Redirector": "",
+    "FriendlyName": "Calm N Civs",
+    "MatchEventId": "ME-B-12",
+    "AdditionalEvents": [
+        "ME-B-13",
+        "ME-B-14"
+    ]
+}, {
+    "Tiers": {
+        "MI-B-14": 5,
+        "MI-B-15": 15,
+        "MI-B-16": 30
+    },
+    "Disabled": false,
+    "Redirector": "",
+    "FriendlyName": "Spot Ghost N Times",
+    "MatchEventId": "ME-B-15",
+    "AdditionalEvents": null
+}, {
+    "Tiers": {
+        "MI-B-4": 3,
+        "MI-B-5": 5,
+        "MI-B-6": 10
+    },
+    "Disabled": false,
+    "Redirector": "",
+    "FriendlyName": "Revive N Teammates",
+    "MatchEventId": "ME-B-2",
+    "AdditionalEvents": null
+}, {
+    "Tiers": {
+        "MI-B-41": 250,
+        "MI-B-42": 750,
+        "MI-B-43": 1500
+    },
+    "Disabled": false,
+    "Redirector": "",
+    "FriendlyName": "Rift Fracture N Damage",
+    "MatchEventId": "ME-B-26",
+    "AdditionalEvents": null
+}, {
+    "Tiers": {
+        "MI-B-47": 5,
+        "MI-B-48": 10,
+        "MI-B-49": 20
+    },
+    "Disabled": false,
+    "Redirector": "",
+    "FriendlyName": "Collect N Fungi",
+    "MatchEventId": "ME-B-28",
+    "AdditionalEvents": null
+}, {
+    "Tiers": {
+        "MI-B-44": 2,
+        "MI-B-45": 5,
+        "MI-B-46": 10
+    },
+    "Disabled": false,
+    "Redirector": "",
+    "FriendlyName": "Uncover N Rifts",
+    "MatchEventId": "ME-B-3",
+    "AdditionalEvents": null
+}, {
+    "Tiers": {
+        "MI-B-50": 5,
+        "MI-B-51": 15,
+        "MI-B-52": 30
+    },
+    "Disabled": false,
+    "Redirector": "",
+    "FriendlyName": "Pop N Drudges",
+    "MatchEventId": "ME-B-59",
+    "AdditionalEvents": null
+}, {
+    "Tiers": {
+        "MI-B-10": 2,
+        "MI-B-11": 3,
+        "MI-B-12": 4,
+        "MI-B-13": 5
+    },
+    "Disabled": false,
+    "Redirector": "",
+    "FriendlyName": "Trap the ghost N times as primary tether or trapper",
+    "MatchEventId": "ME-B-6",
+    "AdditionalEvents": [
+        "ME-B-22"
+    ]
+}, {
+    "Tiers": {
+        "MI-B-53": 3,
+        "MI-B-54": 7,
+        "MI-B-55": 15
+    },
+    "Disabled": false,
+    "Redirector": "",
+    "FriendlyName": "Trap N Drudges",
+    "MatchEventId": "ME-B-60",
+    "AdditionalEvents": null
+}, {
+    "Tiers": {
+        "MI-B-38": 3,
+        "MI-B-39": 5,
+        "MI-B-40": 10
+    },
+    "Disabled": false,
+    "Redirector": "",
+    "FriendlyName": "Stun Ghost N Times",
+    "MatchEventId": "ME-B-7",
+    "AdditionalEvents": null
+}, {
+    "Tiers": {
+        "MI-B-26": 5,
+        "MI-B-27": 15,
+        "MI-B-28": 30
+    },
+    "Disabled": false,
+    "Redirector": "",
+    "FriendlyName": "Destroy N Minions",
+    "MatchEventId": "ME-B-8",
+    "AdditionalEvents": null
+}, {
+    "Tiers": {
+        "MI-B-1": 3,
+        "MI-B-2": 5,
+        "MI-B-3": 10
+    },
+    "Disabled": false,
+    "Redirector": "",
+    "FriendlyName": "PKE Flush Ghost N Times out of objects",
+    "MatchEventId": "ME-B-9",
+    "AdditionalEvents": null
+}, {
+    "Tiers": {
+        "MI-G-4": 3,
+        "MI-G-5": 5,
+        "MI-G-6": 10
+    },
+    "Disabled": false,
+    "Redirector": "",
+    "FriendlyName": "Down Busters N Times",
+    "MatchEventId": "ME-G-1",
+    "AdditionalEvents": null
+}, {
+    "Tiers": {
+        "MI-G-25": 3,
+        "MI-G-26": 5,
+        "MI-G-27": 8
+    },
+    "Disabled": false,
+    "Redirector": "",
+    "FriendlyName": "Horrify N Civs",
+    "MatchEventId": "ME-G-12",
+    "AdditionalEvents": null
+}, {
+    "Tiers": {
+        "MI-G-7": 10,
+        "MI-G-8": 30,
+        "MI-G-9": 50
+    },
+    "Disabled": false,
+    "Redirector": "",
+    "FriendlyName": "Haunt N Objects",
+    "MatchEventId": "ME-G-14",
+    "AdditionalEvents": null
+}, {
+    "Tiers": {
+        "MI-G-19": 7,
+        "MI-G-20": 12,
+        "MI-G-21": 25
+    },
+    "Disabled": false,
+    "Redirector": "",
+    "FriendlyName": "Passthrough N Humans",
+    "MatchEventId": "ME-G-15",
+    "AdditionalEvents": [
+        "ME-G-16"
+    ]
+}, {
+    "Tiers": {
+        "MI-G-13": 5,
+        "MI-G-14": 10,
+        "MI-G-15": 15
+    },
+    "Disabled": false,
+    "Redirector": "",
+    "FriendlyName": "Sabotage N Packs",
+    "MatchEventId": "ME-G-17",
+    "AdditionalEvents": null
+}, {
+    "Tiers": {
+        "MI-G-16": 5,
+        "MI-G-17": 10,
+        "MI-G-18": 25
+    },
+    "Disabled": false,
+    "Redirector": "",
+    "FriendlyName": "Break out of N Tethers",
+    "MatchEventId": "ME-G-2",
+    "AdditionalEvents": [
+        "ME-G-22",
+        "ME-G-23",
+        "ME-G-24"
+    ]
+}, {
+    "Tiers": {
+        "MI-G-1": 2,
+        "MI-G-2": 4,
+        "MI-G-3": 6
+    },
+    "Disabled": false,
+    "Redirector": "",
+    "FriendlyName": "Escape Trap Minigame N Times",
+    "MatchEventId": "ME-G-9",
+    "AdditionalEvents": null
+}, {
+    "Tiers": {
+        "MI-B-32": 25,
+        "MI-B-33": 50,
+        "MI-B-34": 100
+    },
+    "Disabled": false,
+    "Redirector": "",
+    "FriendlyName": "Vaults/Mantles N Times",
+    "MatchEventId": "ST-B-10",
+    "AdditionalEvents": null
+}, {
+    "Tiers": {
+        "MI-B-35": 5,
+        "MI-B-36": 10,
+        "MI-B-37": 25
+    },
+    "Disabled": false,
+    "Redirector": "",
+    "FriendlyName": "VAD Uses N Times",
+    "MatchEventId": "ST-B-20",
+    "AdditionalEvents": null
+}, {
+    "Tiers": {
+        "MI-B-23": 500,
+        "MI-B-24": 1200,
+        "MI-B-25": 2500
+    },
+    "Disabled": false,
+    "Redirector": "",
+    "FriendlyName": "Rift N Damage",
+    "MatchEventId": "ST-B-4",
+    "AdditionalEvents": null
+}, {
+    "Tiers": {
+        "MI-G-10": 5,
+        "MI-G-11": 10,
+        "MI-G-12": 20
+    },
+    "Disabled": false,
+    "Redirector": "",
+    "FriendlyName": "Knockback Busters N Times",
+    "MatchEventId": "ST-G-18",
+    "AdditionalEvents": null
+}, {
+    "Tiers": {
+        "MI-G-22": 500,
+        "MI-G-23": 1000,
+        "MI-G-24": 2500
+    },
+    "Disabled": false,
+    "Redirector": "",
+    "FriendlyName": "Minions deal N Damage",
+    "MatchEventId": "ST-G-2",
+    "AdditionalEvents": null
+}, {
+    "Tiers": {
+        "MI-B-20": 25000,
+        "MI-B-21": 50000,
+        "MI-B-22": 100000
+    },
+    "Disabled": false,
+    "Redirector": "",
+    "FriendlyName": "Destroy Property $N Damage",
+    "MatchEventId": "ST-SG-7",
+    "AdditionalEvents": null
+}]

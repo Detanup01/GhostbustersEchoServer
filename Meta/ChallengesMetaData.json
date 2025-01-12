@@ -1,0 +1,3939 @@
+﻿[{
+    "ID": "CH-1",
+    "Name": "Thrower Basics",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "",
+    "ManualClaim": false,
+    "RewardItemIDs": [
+        "C-EP-W",
+        "C-EP-WS-0",
+        "C-EP-WS-1",
+        "C-EP-WS-2",
+        "C-EP-WS-3",
+        "C-EP-WS-4",
+        "C-EP-WS-5",
+        "C-FS-P-12",
+        "C-FS-L-12"
+    ],
+    "RewardExperience": 15000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-10",
+    "Name": "Ghost Basics",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "",
+    "ManualClaim": false,
+    "RewardItemIDs": [
+        "C-F-R",
+        "C-F-RS-0",
+        "C-F-RS-1",
+        "C-F-RS-2",
+        "C-F-RS-3",
+        "C-F-RS-4",
+        "C-F-RS-5",
+        "C-BNT-7"
+    ],
+    "RewardExperience": 15000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 15
+}, {
+    "ID": "CH-10-1",
+    "Name": "Ghost Basics Tier 1",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-10",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 15
+}, {
+    "ID": "CH-10-2",
+    "Name": "Ghost Basics Tier 2",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-10",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 15
+}, {
+    "ID": "CH-10-3",
+    "Name": "Ghost Basics Tier 3",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-10",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 15
+}, {
+    "ID": "CH-11",
+    "Name": "Hostile Ghost",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "",
+    "ManualClaim": false,
+    "RewardItemIDs": [
+        "C-T-BJ",
+        "C-T-BJS-0",
+        "C-T-BJS-1",
+        "C-T-BJS-2",
+        "C-T-BJS-3",
+        "C-T-BJS-4",
+        "C-T-BJS-5",
+        "C-BNT-15"
+    ],
+    "RewardExperience": 30000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 30
+}, {
+    "ID": "CH-1-1",
+    "Name": "Thrower Basics Tier 1",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-1",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-11-1",
+    "Name": "Hostile Ghost Tier 1",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-11",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 7500,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 30
+}, {
+    "ID": "CH-11-2",
+    "Name": "Hostile Ghost Tier 2",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-11",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 7500,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 30
+}, {
+    "ID": "CH-11-3",
+    "Name": "Hostile Ghost Tier 3",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-11",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 7500,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 30
+}, {
+    "ID": "CH-11-4",
+    "Name": "Hostile Ghost Tier 4",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-11",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 7500,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 30
+}, {
+    "ID": "CH-11-5",
+    "Name": "Hostile Ghost Tier 5",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-11",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 7500,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 30
+}, {
+    "ID": "CH-12",
+    "Name": "The Pestilence",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "",
+    "ManualClaim": false,
+    "RewardItemIDs": [
+        "C-F-SV",
+        "C-F-SVS-0",
+        "C-F-SVS-1",
+        "C-F-SVS-2",
+        "C-F-SVS-3",
+        "C-F-SVS-4",
+        "C-F-SVS-5",
+        "C-BNT-8",
+        "C-FS-P-7",
+        "C-FS-L-7"
+    ],
+    "RewardExperience": 30000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 30
+}, {
+    "ID": "CH-1-2",
+    "Name": "Thrower Basics Tier 2",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-1",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-12-1",
+    "Name": "The Pestilence Tier 1",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-12",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 7500,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 30
+}, {
+    "ID": "CH-12-2",
+    "Name": "The Pestilence Tier 2",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-12",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 7500,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 30
+}, {
+    "ID": "CH-12-3",
+    "Name": "The Pestilence Tier 3",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-12",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 7500,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 30
+}, {
+    "ID": "CH-12-4",
+    "Name": "The Pestilence Tier 4",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-12",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 7500,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 30
+}, {
+    "ID": "CH-12-5",
+    "Name": "The Pestilence Tier 5",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-12",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 7500,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 30
+}, {
+    "ID": "CH-13",
+    "Name": "Proper Busting",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "",
+    "ManualClaim": false,
+    "RewardItemIDs": [
+        "C-E-W",
+        "C-E-WS-0",
+        "C-E-WS-1",
+        "C-E-WS-2",
+        "C-E-WS-3",
+        "C-E-WS-4",
+        "C-E-WS-5",
+        "C-E-WS-6",
+        "C-E-WS-7",
+        "C-E-WS-8",
+        "C-E-WS-9",
+        "C-E-WS-10",
+        "C-E-WS-11",
+        "C-BNT-37"
+    ],
+    "RewardExperience": 30000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 30
+}, {
+    "ID": "CH-1-3",
+    "Name": "Thrower Basics Tier 3",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-1",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-13-1",
+    "Name": "Proper Busting Tier 1",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-13",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 7500,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 30
+}, {
+    "ID": "CH-13-2",
+    "Name": "Proper Busting Tier 2",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-13",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 7500,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 30
+}, {
+    "ID": "CH-13-3",
+    "Name": "Proper Busting Tier 3",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-13",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 7500,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 30
+}, {
+    "ID": "CH-13-4",
+    "Name": "Proper Busting Tier 4",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-13",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 7500,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 30
+}, {
+    "ID": "CH-13-5",
+    "Name": "Proper Busting Tier 5",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-13",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 7500,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 30
+}, {
+    "ID": "CH-14",
+    "Name": "Nice Friendly Civilians",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "",
+    "ManualClaim": false,
+    "RewardItemIDs": [
+        "C-E-V",
+        "C-E-VS-0",
+        "C-E-VS-1",
+        "C-E-VS-2",
+        "C-E-VS-3",
+        "C-E-VS-4",
+        "C-E-VS-5",
+        "C-E-VS-6",
+        "C-E-VS-7",
+        "C-E-VS-8",
+        "C-E-VS-9",
+        "C-E-VS-10",
+        "C-E-VS-11",
+        "C-BNT-19",
+        "C-BNT-20"
+    ],
+    "RewardExperience": 30000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 30
+}, {
+    "ID": "CH-14-1",
+    "Name": "Nice Friendly Civilians Tier 1",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-14",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 7500,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 30
+}, {
+    "ID": "CH-14-2",
+    "Name": "Nice Friendly Civilians Tier 2",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-14",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 7500,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 30
+}, {
+    "ID": "CH-14-3",
+    "Name": "Nice Friendly Civilians Tier 3",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-14",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 7500,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 30
+}, {
+    "ID": "CH-14-4",
+    "Name": "Nice Friendly Civilians Tier 4",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-14",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 7500,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 30
+}, {
+    "ID": "CH-14-5",
+    "Name": "Nice Friendly Civilians Tier 5",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-14",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 7500,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 30
+}, {
+    "ID": "CH-15",
+    "Name": "Haunting Effect",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "",
+    "ManualClaim": false,
+    "RewardItemIDs": [
+        "C-T-TV",
+        "C-T-TVS-0",
+        "C-T-TVS-1",
+        "C-T-TVS-2",
+        "C-T-TVS-3",
+        "C-T-TVS-4",
+        "C-T-TVS-5",
+        "C-BNT-10",
+        "C-FS-P-6",
+        "C-FS-L-6"
+    ],
+    "RewardExperience": 30000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 30
+}, {
+    "ID": "CH-15-1",
+    "Name": "Haunting Effect Tier 1",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-15",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 7500,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 30
+}, {
+    "ID": "CH-15-2",
+    "Name": "Haunting Effect Tier 2",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-15",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 7500,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 30
+}, {
+    "ID": "CH-15-3",
+    "Name": "Haunting Effect Tier 3",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-15",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 7500,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 30
+}, {
+    "ID": "CH-15-4",
+    "Name": "Haunting Effect Tier 4",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-15",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 7500,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 30
+}, {
+    "ID": "CH-15-5",
+    "Name": "Haunting Effect Tier 5",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-15",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 7500,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 30
+}, {
+    "ID": "CH-16",
+    "Name": "The Professional",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "",
+    "ManualClaim": false,
+    "RewardItemIDs": [
+        "C-E-3D",
+        "C-E-3DS-0",
+        "C-E-3DS-1",
+        "C-E-3DS-2",
+        "C-E-3DS-3",
+        "C-E-3DS-4",
+        "C-E-3DS-5",
+        "C-E-3DS-6",
+        "C-E-3DS-7",
+        "C-E-3DS-8",
+        "C-E-3DS-9",
+        "C-E-3DS-10",
+        "C-E-3DS-11",
+        "C-BNT-5",
+        "C-BNT-6"
+    ],
+    "RewardExperience": 75000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 50
+}, {
+    "ID": "CH-16-1",
+    "Name": "The Professional Tier 1",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-16",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 10000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 50
+}, {
+    "ID": "CH-16-2",
+    "Name": "The Professional Tier 2",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-16",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 10000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 50
+}, {
+    "ID": "CH-16-3",
+    "Name": "The Professional Tier 3",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-16",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 10000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 50
+}, {
+    "ID": "CH-16-4",
+    "Name": "The Professional Tier 4",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-16",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 10000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 50
+}, {
+    "ID": "CH-16-5",
+    "Name": "The Professional Tier 5",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-16",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 10000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 50
+}, {
+    "ID": "CH-16-6",
+    "Name": "The Professional Tier 6",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-16",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 10000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 50
+}, {
+    "ID": "CH-16-7",
+    "Name": "The Professional Tier 7",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-16",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 10000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 50
+}, {
+    "ID": "CH-16-8",
+    "Name": "The Professional Tier 8",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-16",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 10000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 50
+}, {
+    "ID": "CH-17",
+    "Name": "The Expert",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "",
+    "ManualClaim": false,
+    "RewardItemIDs": [
+        "C-FS-P-18",
+        "C-FS-L-18"
+    ],
+    "RewardExperience": 100000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 50
+}, {
+    "ID": "CH-17-1",
+    "Name": "The Expert Tier 1",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-17",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 10000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 50
+}, {
+    "ID": "CH-17-2",
+    "Name": "The Expert Tier 2",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-17",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 10000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 50
+}, {
+    "ID": "CH-17-3",
+    "Name": "The Expert Tier 3",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-17",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 10000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 50
+}, {
+    "ID": "CH-17-4",
+    "Name": "The Expert Tier 4",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-17",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 10000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 50
+}, {
+    "ID": "CH-17-5",
+    "Name": "The Expert Tier 5",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-17",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 10000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 50
+}, {
+    "ID": "CH-17-6",
+    "Name": "The Expert Tier 6",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-17",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 10000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 50
+}, {
+    "ID": "CH-17-7",
+    "Name": "The Expert Tier 7",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-17",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 10000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 50
+}, {
+    "ID": "CH-17-8",
+    "Name": "The Expert Tier 8",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-17",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 10000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 50
+}, {
+    "ID": "CH-18",
+    "Name": "The Connesuir",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 100000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 50
+}, {
+    "ID": "CH-18-1",
+    "Name": "The Connesuir Tier 1",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-18",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 10000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 50
+}, {
+    "ID": "CH-18-2",
+    "Name": "The Connesuir Tier 2",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-18",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 10000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 50
+}, {
+    "ID": "CH-18-3",
+    "Name": "The Connesuir Tier 3",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-18",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 10000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 50
+}, {
+    "ID": "CH-18-4",
+    "Name": "The Connesuir Tier 4",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-18",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 10000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 50
+}, {
+    "ID": "CH-18-5",
+    "Name": "The Connesuir Tier 5",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-18",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 10000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 50
+}, {
+    "ID": "CH-18-6",
+    "Name": "The Connesuir Tier 6",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-18",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 10000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 50
+}, {
+    "ID": "CH-18-7",
+    "Name": "The Connesuir Tier 7",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-18",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 10000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 50
+}, {
+    "ID": "CH-18-8",
+    "Name": "The Connesuir Tier 8",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-18",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 10000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 50
+}, {
+    "ID": "CH-19",
+    "Name": "The Asset",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "",
+    "ManualClaim": false,
+    "RewardItemIDs": [
+        "C-F-H",
+        "C-F-HS-0",
+        "C-F-HS-1",
+        "C-F-HS-2",
+        "C-F-HS-3",
+        "C-F-HS-4",
+        "C-F-HS-5",
+        "C-BNT-3",
+        "C-BNT-4"
+    ],
+    "RewardExperience": 75000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 50
+}, {
+    "ID": "CH-19-1",
+    "Name": "The Asset Tier 1",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-19",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 10000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 50
+}, {
+    "ID": "CH-19-2",
+    "Name": "The Asset Tier 2",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-19",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 10000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 50
+}, {
+    "ID": "CH-19-3",
+    "Name": "The Asset Tier 3",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-19",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 10000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 50
+}, {
+    "ID": "CH-19-4",
+    "Name": "The Asset Tier 4",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-19",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 10000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 50
+}, {
+    "ID": "CH-19-5",
+    "Name": "The Asset Tier 5",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-19",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 10000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 50
+}, {
+    "ID": "CH-19-6",
+    "Name": "The Asset Tier 6",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-19",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 10000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 50
+}, {
+    "ID": "CH-19-7",
+    "Name": "The Asset Tier 7",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-19",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 10000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 50
+}, {
+    "ID": "CH-19-8",
+    "Name": "The Asset Tier 8",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-19",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 10000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 50
+}, {
+    "ID": "CH-2",
+    "Name": "Rift Hunting",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "",
+    "ManualClaim": false,
+    "RewardItemIDs": [
+        "C-H-CB",
+        "C-H-CBS-0",
+        "C-H-CBS-1",
+        "C-H-CBS-2",
+        "C-H-CBS-3",
+        "C-H-CBS-4",
+        "C-H-CBS-5",
+        "C-H-CBS-6",
+        "C-H-CBS-7",
+        "C-H-CBS-8",
+        "C-H-CBS-9",
+        "C-H-CBS-10",
+        "C-H-CBS-11",
+        "C-BNT-17",
+        "C-BNT-18"
+    ],
+    "RewardExperience": 15000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 10
+}, {
+    "ID": "CH-20",
+    "Name": "The Legend",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "",
+    "ManualClaim": false,
+    "RewardItemIDs": [
+        "C-T-FJ",
+        "C-T-FJS-0",
+        "C-T-FJS-1",
+        "C-T-FJS-2",
+        "C-T-FJS-3",
+        "C-T-FJS-4",
+        "C-T-FJS-5",
+        "C-BNT-1",
+        "C-BNT-2"
+    ],
+    "RewardExperience": 75000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 50
+}, {
+    "ID": "CH-20-1",
+    "Name": "The Legend Tier 1",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-20",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 10000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 50
+}, {
+    "ID": "CH-20-2",
+    "Name": "The Legend Tier 2",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-20",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 10000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 50
+}, {
+    "ID": "CH-20-3",
+    "Name": "The Legend Tier 3",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-20",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 10000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 50
+}, {
+    "ID": "CH-20-4",
+    "Name": "The Legend Tier 4",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-20",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 10000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 50
+}, {
+    "ID": "CH-20-5",
+    "Name": "The Legend Tier 5",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-20",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 10000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 50
+}, {
+    "ID": "CH-20-6",
+    "Name": "The Legend Tier 6",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-20",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 10000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 50
+}, {
+    "ID": "CH-20-7",
+    "Name": "The Legend Tier 7",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-20",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 10000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 50
+}, {
+    "ID": "CH-20-8",
+    "Name": "The Legend Tier 8",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-20",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 10000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 50
+}, {
+    "ID": "CH-21",
+    "Name": "The Spectacle",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "",
+    "ManualClaim": false,
+    "RewardItemIDs": [
+        "C-E-JM",
+        "C-E-SG"
+    ],
+    "RewardExperience": 25000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-2-1",
+    "Name": "Rift Hunting Tier 1",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-2",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 10
+}, {
+    "ID": "CH-21-1",
+    "Name": "The Spectacle Tier 1",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-21",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 10000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-21-2",
+    "Name": "The Spectacle Tier 2",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-21",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 10000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-22",
+    "Name": "Extreme Style",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "",
+    "ManualClaim": false,
+    "RewardItemIDs": [
+        "C-T-RV",
+        "C-T-RVS-0",
+        "C-T-RVS-1",
+        "C-T-RVS-2",
+        "C-T-RVS-3",
+        "C-T-RVS-4",
+        "C-T-RVS-5",
+        "C-T-GP",
+        "C-T-GPS-0",
+        "C-T-GPS-1",
+        "C-T-GPS-2",
+        "C-T-GPS-3",
+        "C-T-GPS-4",
+        "C-T-GPS-5",
+        "C-BNT-80",
+        "C-BNT-81",
+        "C-BNT-82",
+        "C-BNT-83",
+        "C-BNT-84",
+        "C-BNT-85",
+        "C-BNT-86",
+        "C-BNT-87"
+    ],
+    "RewardExperience": 15000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 15
+}, {
+    "ID": "CH-2-2",
+    "Name": "Rift Hunting Tier 2",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-2",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 10
+}, {
+    "ID": "CH-22-1",
+    "Name": "Extreme Style Tier 1",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-22",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 15
+}, {
+    "ID": "CH-22-2",
+    "Name": "Extreme Style Tier 2",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-22",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 15
+}, {
+    "ID": "CH-22-3",
+    "Name": "Extreme Style Tier 3",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-22",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 15
+}, {
+    "ID": "CH-23",
+    "Name": "Slime Explorer",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "",
+    "ManualClaim": false,
+    "RewardItemIDs": [
+        "C-FS-RS",
+        "C-H-RH"
+    ],
+    "RewardExperience": 30000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 30
+}, {
+    "ID": "CH-2-3",
+    "Name": "Rift Hunting Tier 3",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-2",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 10
+}, {
+    "ID": "CH-23-1",
+    "Name": "Slime Explorer Tier 1",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-23",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 7500,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 30
+}, {
+    "ID": "CH-23-2",
+    "Name": "Slime Explorer Tier 2",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-23",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 7500,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 30
+}, {
+    "ID": "CH-23-3",
+    "Name": "Slime Explorer Tier 3",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-23",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 7500,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 30
+}, {
+    "ID": "CH-23-4",
+    "Name": "Slime Explorer Tier 4",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-23",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 7500,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 30
+}, {
+    "ID": "CH-23-5",
+    "Name": "Slime Explorer Tier 5",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-23",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 7500,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 30
+}, {
+    "ID": "CH-24",
+    "Name": "Answering the Call",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "",
+    "ManualClaim": false,
+    "RewardItemIDs": [
+        "C-FS-ATC",
+        "C-G-MEG",
+        "C-F-MTA",
+        "C-E-HG",
+        "C-E-YG",
+        "C-BNT-88",
+        "C-BNT-89",
+        "C-BNT-90",
+        "C-BNT-91",
+        "C-BNT-92",
+        "C-BNT-93",
+        "C-BNT-94",
+        "C-BNT-95",
+        "C-BNT-96",
+        "C-BNT-97"
+    ],
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 30
+}, {
+    "ID": "CH-24-1",
+    "Name": "Answering the Call Tier 1",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-24",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 1000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 30
+}, {
+    "ID": "CH-24-2",
+    "Name": "Answering the Call Tier 2",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-24",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 1000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 30
+}, {
+    "ID": "CH-24-3",
+    "Name": "Answering the Call Tier 3",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-24",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 1000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 30
+}, {
+    "ID": "CH-24-4",
+    "Name": "Answering the Call Tier 4",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-24",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 1000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 30
+}, {
+    "ID": "CH-24-5",
+    "Name": "Answering the Call Tier 5",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-24",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 1000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 30
+}, {
+    "ID": "CH-25",
+    "Name": "The Wrangler",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "",
+    "ManualClaim": false,
+    "RewardItemIDs": [
+        "C-F-WB"
+    ],
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 30
+}, {
+    "ID": "CH-25-1",
+    "Name": "The Wrangler Tier 1",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-25",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 1000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 30
+}, {
+    "ID": "CH-25-2",
+    "Name": "The Wrangler Tier 2",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-25",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 1000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 30
+}, {
+    "ID": "CH-25-3",
+    "Name": "The Wrangler Tier 3",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-25",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 1000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 30
+}, {
+    "ID": "CH-26",
+    "Name": "Bitter Cold",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "",
+    "ManualClaim": false,
+    "RewardItemIDs": [
+        "C-FS-D5-0",
+        "C-FS-L-D5-7"
+    ],
+    "RewardExperience": 75000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 50
+}, {
+    "ID": "CH-26-1",
+    "Name": "Bitter Cold Tier 1",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-26",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 10000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 50
+}, {
+    "ID": "CH-26-2",
+    "Name": "Bitter Cold Tier 2",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-26",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 10000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 50
+}, {
+    "ID": "CH-26-3",
+    "Name": "Bitter Cold Tier 3",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-26",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 10000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 50
+}, {
+    "ID": "CH-26-4",
+    "Name": "Bitter Cold Tier 4",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-26",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 10000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 50
+}, {
+    "ID": "CH-26-5",
+    "Name": "Bitter Cold Tier 5",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-26",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 10000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 50
+}, {
+    "ID": "CH-27",
+    "Name": "Firehouse (Familiar Connections)",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "",
+    "ManualClaim": false,
+    "RewardItemIDs": [
+        "C-FS-L-D5-1",
+        "C-FS-L-D5-2",
+        "C-FS-L-D5-4",
+        "C-FS-L-D5-5"
+    ],
+    "RewardExperience": 75000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 50
+}, {
+    "ID": "CH-27-1",
+    "Name": "Firehouse (Familiar Connections) Tier 1",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-27",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 10000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 50
+}, {
+    "ID": "CH-27-2",
+    "Name": "Firehouse (Familiar Connections) Tier 2",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-27",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 10000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 50
+}, {
+    "ID": "CH-27-3",
+    "Name": "Firehouse (Familiar Connections) Tier 3",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-27",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 10000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 50
+}, {
+    "ID": "CH-27-4",
+    "Name": "Firehouse (Familiar Connections) Tier 4",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-27",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 10000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 50
+}, {
+    "ID": "CH-27-5",
+    "Name": "Firehouse (Familiar Connections) Tier 5",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-27",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 10000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 50
+}, {
+    "ID": "CH-28",
+    "Name": "The Classic",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "",
+    "ManualClaim": false,
+    "RewardItemIDs": [
+        "C-FS-D6-0"
+    ],
+    "RewardExperience": 75000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 50
+}, {
+    "ID": "CH-28-1",
+    "Name": "The Classic",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-28",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 10000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 50
+}, {
+    "ID": "CH-28-2",
+    "Name": "The Classic",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-28",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 10000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 50
+}, {
+    "ID": "CH-28-3",
+    "Name": "The Classic",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-28",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 10000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 50
+}, {
+    "ID": "CH-28-4",
+    "Name": "The Classic",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-28",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 10000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 50
+}, {
+    "ID": "CH-28-5",
+    "Name": "The Classic",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-28",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 10000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 50
+}, {
+    "ID": "CH-29",
+    "Name": "RGB Slimer",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "",
+    "ManualClaim": false,
+    "RewardItemIDs": [
+        "GH-1-V6"
+    ],
+    "RewardExperience": 75000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 50
+}, {
+    "ID": "CH-29-1",
+    "Name": "RGB Slimer",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-29",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 10000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 50
+}, {
+    "ID": "CH-29-2",
+    "Name": "RGB Slimer",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-29",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 10000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 50
+}, {
+    "ID": "CH-29-3",
+    "Name": "RGB Slimer",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-29",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 10000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 50
+}, {
+    "ID": "CH-29-4",
+    "Name": "RGB Slimer",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-29",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 10000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 50
+}, {
+    "ID": "CH-29-5",
+    "Name": "RGB Slimer",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-29",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 10000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 50
+}, {
+    "ID": "CH-3",
+    "Name": "Ghost Trapping Basics",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "",
+    "ManualClaim": false,
+    "RewardItemIDs": [
+        "C-G-T",
+        "C-G-TS-0",
+        "C-G-TS-1",
+        "C-G-TS-2",
+        "C-G-TS-3",
+        "C-G-TS-4",
+        "C-G-TS-5",
+        "C-FS-P-15",
+        "C-FS-L-15"
+    ],
+    "RewardExperience": 15000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-3-1",
+    "Name": "Ghost Trapping Basics Tier 1",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-3",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-3-2",
+    "Name": "Ghost Trapping Basics Tier 2",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-3",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-3-3",
+    "Name": "Ghost Trapping Basics Tier 3",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-3",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-4",
+    "Name": "Destruction",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "",
+    "ManualClaim": false,
+    "RewardItemIDs": [
+        "C-KP-T",
+        "C-KP-TS-0",
+        "C-KP-TS-1",
+        "C-KP-TS-2",
+        "C-KP-TS-3",
+        "C-KP-TS-4",
+        "C-KP-TS-5"
+    ],
+    "RewardExperience": 15000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 10
+}, {
+    "ID": "CH-4-1",
+    "Name": "Destruction Tier 1",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-4",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 10
+}, {
+    "ID": "CH-4-2",
+    "Name": "Destruction Tier 2",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-4",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 10
+}, {
+    "ID": "CH-4-3",
+    "Name": "Destruction Tier 3",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-4",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 10
+}, {
+    "ID": "CH-5",
+    "Name": "Buster Basics",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "",
+    "ManualClaim": false,
+    "RewardItemIDs": [
+        "C-H-CH",
+        "C-H-CHS-0",
+        "C-H-CHS-1",
+        "C-H-CHS-2",
+        "C-H-CHS-3",
+        "C-H-CHS-4",
+        "C-H-CHS-5",
+        "C-H-CHS-6",
+        "C-H-CHS-7",
+        "C-H-CHS-8",
+        "C-H-CHS-9",
+        "C-H-CHS-10",
+        "C-H-CHS-11",
+        "C-BNT-13",
+        "C-BNT-16"
+    ],
+    "RewardExperience": 15000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-5-1",
+    "Name": "Buster Basics Tier 1",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-5",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-5-2",
+    "Name": "Buster Basics Tier 2",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-5",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-5-3",
+    "Name": "Buster Basics Tier 3",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-5",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-6",
+    "Name": "Teamwork",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 25000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 10
+}, {
+    "ID": "CH-6-1",
+    "Name": "Teamwork Tier 1",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-6",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 10
+}, {
+    "ID": "CH-6-2",
+    "Name": "Teamwork Tier 2",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-6",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 10
+}, {
+    "ID": "CH-6-3",
+    "Name": "Teamwork Tier 3",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-6",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 10
+}, {
+    "ID": "CH-7",
+    "Name": "PKE Meter Basics",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "",
+    "ManualClaim": false,
+    "RewardItemIDs": [
+        "C-FS-P-16"
+    ],
+    "RewardExperience": 25000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-7-1",
+    "Name": "PKE Meter Basics Tier 1",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-7",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-7-2",
+    "Name": "PKE Meter Basics Tier 2",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-7",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-7-3",
+    "Name": "PKE Meter Basics Tier 3",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-7",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-8",
+    "Name": "Escape Artist",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "",
+    "ManualClaim": false,
+    "RewardItemIDs": [
+        "C-H-U",
+        "C-H-US-0",
+        "C-H-US-1",
+        "C-H-US-2",
+        "C-H-US-3",
+        "C-H-US-4",
+        "C-H-US-5",
+        "C-H-US-6",
+        "C-H-US-7",
+        "C-H-US-8",
+        "C-H-US-9",
+        "C-H-US-10",
+        "C-H-US-11",
+        "C-BNT-47"
+    ],
+    "RewardExperience": 15000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 15
+}, {
+    "ID": "CH-8-1",
+    "Name": "Escape Artist Tier 1",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-8",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 15
+}, {
+    "ID": "CH-8-2",
+    "Name": "Escape Artist Tier 2",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-8",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 15
+}, {
+    "ID": "CH-8-3",
+    "Name": "Escape Artist Tier 3",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-8",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 15
+}, {
+    "ID": "CH-9",
+    "Name": "Frightening",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 25000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 15
+}, {
+    "ID": "CH-9-1",
+    "Name": "Frightening Tier 1",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-9",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 15
+}, {
+    "ID": "CH-9-2",
+    "Name": "Frightening Tier 2",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-9",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 15
+}, {
+    "ID": "CH-9-3",
+    "Name": "Frightening Tier 3",
+    "Category": "Contract",
+    "Disabled": false,
+    "ParentId": "CH-9",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 15
+}, {
+    "ID": "CH-GB-1",
+    "Name": "Complete Gold Bounty",
+    "Category": "Bounty",
+    "Disabled": false,
+    "ParentId": "",
+    "ManualClaim": false,
+    "RewardItemIDs": [
+        "GH-10-V6"
+    ],
+    "RewardExperience": 0,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-GB-2",
+    "Name": "Complete SlimerB Bounty",
+    "Category": "Bounty",
+    "Disabled": false,
+    "ParentId": "",
+    "ManualClaim": false,
+    "RewardItemIDs": [
+        "GH-1-V9"
+    ],
+    "RewardExperience": 0,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-GB-3",
+    "Name": "Complete NeonTin Bounty",
+    "Category": "Bounty",
+    "Disabled": false,
+    "ParentId": "",
+    "ManualClaim": false,
+    "RewardItemIDs": [
+        "GH-1-V11",
+        "GH-6-V5"
+    ],
+    "RewardExperience": 0,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-1",
+    "Name": "Whip Pulser Research Contract",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "",
+    "ManualClaim": false,
+    "RewardItemIDs": [
+        "G-2-WP"
+    ],
+    "RewardExperience": 25000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-2": 42
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-10",
+    "Name": "Outboard Chipset Research Contract",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "",
+    "ManualClaim": false,
+    "RewardItemIDs": [
+        "G-1-OC"
+    ],
+    "RewardExperience": 25000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-1": 23
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-10-1",
+    "Name": "Outboard Chipset Tier 1",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "CH-R-10",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-1": 23
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-10-2",
+    "Name": "Outboard Chipset Tier 2",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "CH-R-10",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-1": 23
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-11",
+    "Name": "Ecto Zapper Research Contract",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "",
+    "ManualClaim": false,
+    "RewardItemIDs": [
+        "G-1-ETM"
+    ],
+    "RewardExperience": 25000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-1": 25
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-1-1",
+    "Name": "Whip Pulser Tier 1",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "CH-R-1",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-2": 42
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-11-1",
+    "Name": "Ecto Zapper Tier 1",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "CH-R-11",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-1": 25
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-11-2",
+    "Name": "Ecto Zapper Tier 2",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "CH-R-11",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-1": 25
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-12",
+    "Name": "Remote Reciever Research Contract",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "",
+    "ManualClaim": false,
+    "RewardItemIDs": [
+        "G-4-RR"
+    ],
+    "RewardExperience": 25000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-4": 20
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-1-2",
+    "Name": "Whip Pulser Tier 2",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "CH-R-1",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-2": 42
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-12-1",
+    "Name": "Remote Reciever Tier 1",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "CH-R-12",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-4": 20
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-12-2",
+    "Name": "Remote Reciever Tier 2",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "CH-R-12",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-4": 20
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-13",
+    "Name": "Lithium Battery Research Contract",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "",
+    "ManualClaim": false,
+    "RewardItemIDs": [
+        "G-4-LTHB"
+    ],
+    "RewardExperience": 25000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-4": 22
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-13-1",
+    "Name": "Lithium Battery Tier 1",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "CH-R-13",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-4": 22
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-13-2",
+    "Name": "Lithium Battery Tier 2",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "CH-R-13",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-4": 22
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-14",
+    "Name": "R.T.V. Kit Research Contract",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "",
+    "ManualClaim": false,
+    "RewardItemIDs": [
+        "G-4-RCW"
+    ],
+    "RewardExperience": 25000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-4": 24
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-14-1",
+    "Name": "R.T.V. Kit Tier 1",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "CH-R-14",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-4": 24
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-14-2",
+    "Name": "R.T.V. Kit Tier 2",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "CH-R-14",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-4": 24
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-15",
+    "Name": "Overclock Pedal Research Contract",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "",
+    "ManualClaim": false,
+    "RewardItemIDs": [
+        "G-4-OLP"
+    ],
+    "RewardExperience": 25000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-4": 25
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-15-1",
+    "Name": "Overclock Pedal Tier 1",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "CH-R-15",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-4": 25
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-15-2",
+    "Name": "Overclock Pedal Tier 2",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "CH-R-15",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-4": 25
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-16",
+    "Name": "RGB PKE Shell Research Contract",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "",
+    "ManualClaim": false,
+    "RewardItemIDs": [
+        "C-PK-GS-2"
+    ],
+    "RewardExperience": 20000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-1": 5
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-16-1",
+    "Name": "RGB PKE Tier 1",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "CH-R-16",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-1": 5
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-16-2",
+    "Name": "RGB PKE Tier 2",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "CH-R-16",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-1": 5
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-17",
+    "Name": "RGB Thrower Shell Research Contract",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "",
+    "ManualClaim": false,
+    "RewardItemIDs": [
+        "C-PT-GS-2"
+    ],
+    "RewardExperience": 20000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-2": 5
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-17-1",
+    "Name": "RGB Thrower Tier 1",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "CH-R-17",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-2": 5
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-17-2",
+    "Name": "RGB Thrower Tier 2",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "CH-R-17",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-2": 5
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-18",
+    "Name": "RGB Pack Shell Research Contract",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "",
+    "ManualClaim": false,
+    "RewardItemIDs": [
+        "C-PP-GS-2"
+    ],
+    "RewardExperience": 20000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-3": 5
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-18-1",
+    "Name": "RGB Pack Tier 1",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "CH-R-18",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-3": 5
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-18-2",
+    "Name": "RGB Pack Tier 2",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "CH-R-18",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-3": 5
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-19",
+    "Name": "RGB Trap Shell Research Contract",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "",
+    "ManualClaim": false,
+    "RewardItemIDs": [
+        "C-GT-GS-2"
+    ],
+    "RewardExperience": 20000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-4": 5
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-19-1",
+    "Name": "RGB Trap Tier 1",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "CH-R-19",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-4": 5
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-19-2",
+    "Name": "RGB Trap Tier 2",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "CH-R-19",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-4": 5
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-2",
+    "Name": "Snub Nose Research Contract",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "",
+    "ManualClaim": false,
+    "RewardItemIDs": [
+        "G-2-SN"
+    ],
+    "RewardExperience": 25000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-2": 44
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-20",
+    "Name": "EGB PKE Shell Research Contract",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "",
+    "ManualClaim": false,
+    "RewardItemIDs": [
+        "C-PK-GS-3"
+    ],
+    "RewardExperience": 20000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-1": 5
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-20-1",
+    "Name": "EGB PKE Tier 1",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "CH-R-20",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-1": 5
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-20-2",
+    "Name": "EGB PKE Tier 2",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "CH-R-20",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-1": 5
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-21",
+    "Name": "EGB Thrower Shell Research Contract",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "",
+    "ManualClaim": false,
+    "RewardItemIDs": [
+        "C-PT-GS-3"
+    ],
+    "RewardExperience": 20000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-2": 5
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-2-1",
+    "Name": "Snub Nose Tier 1",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "CH-R-2",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-2": 44
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-21-1",
+    "Name": "EGB Thrower Tier 1",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "CH-R-21",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-2": 5
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-21-2",
+    "Name": "EGB Thrower Tier 2",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "CH-R-21",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-2": 5
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-22",
+    "Name": "EGB Pack Shell Research Contract",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "",
+    "ManualClaim": false,
+    "RewardItemIDs": [
+        "C-PP-GS-3"
+    ],
+    "RewardExperience": 20000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-3": 5
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-2-2",
+    "Name": "Snub Nose Tier 2",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "CH-R-2",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-2": 44
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-22-1",
+    "Name": "EGB Pack Tier 1",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "CH-R-22",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-3": 5
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-22-2",
+    "Name": "EGB Pack Tier 2",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "CH-R-22",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-3": 5
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-23",
+    "Name": "EGB Trap Shell Research Contract",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "",
+    "ManualClaim": false,
+    "RewardItemIDs": [
+        "C-GT-GS-3"
+    ],
+    "RewardExperience": 20000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-4": 5
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-23-1",
+    "Name": "EGB Trap Tier 1",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "CH-R-23",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-4": 5
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-23-2",
+    "Name": "EGB Trap Tier 2",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "CH-R-23",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-4": 5
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-24",
+    "Name": "Chrome Coating Research Contract",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "",
+    "ManualClaim": false,
+    "RewardItemIDs": [
+        "C-PT-S-14",
+        "C-PM-S-14",
+        "C-GT-S-14",
+        "C-PP-S-14"
+    ],
+    "RewardExperience": 50000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 50
+}, {
+    "ID": "CH-R-24-1",
+    "Name": "Chrome Coating Tier 1",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "CH-R-24",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 10000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 50
+}, {
+    "ID": "CH-R-24-2",
+    "Name": "Chrome Coating Tier 2",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "CH-R-24",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 10000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 50
+}, {
+    "ID": "CH-R-24-3",
+    "Name": "Chrome Coating Tier 3",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "CH-R-24",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 10000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 50
+}, {
+    "ID": "CH-R-24-4",
+    "Name": "Chrome Coating Tier 4",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "CH-R-24",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 10000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 50
+}, {
+    "ID": "CH-R-24-5",
+    "Name": "Chrome Coating Tier 5",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "CH-R-24",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 10000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": null,
+    "RequiredPlayerLevel": 50
+}, {
+    "ID": "CH-R-25",
+    "Name": "2016 PKE Shell Research Contract",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "",
+    "ManualClaim": false,
+    "RewardItemIDs": [
+        "C-PK-GS-4"
+    ],
+    "RewardExperience": 20000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-1": 5
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-25-1",
+    "Name": "2016 PKE Tier 1",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "CH-R-25",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-1": 5
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-25-2",
+    "Name": "2016 PKE Tier 2",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "CH-R-25",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-1": 5
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-26",
+    "Name": "2016 Thrower Shell Research Contract",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "",
+    "ManualClaim": false,
+    "RewardItemIDs": [
+        "C-PT-GS-4"
+    ],
+    "RewardExperience": 20000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-2": 5
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-26-1",
+    "Name": "2016 Thrower Tier 1",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "CH-R-26",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-2": 5
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-26-2",
+    "Name": "2016 Thrower Tier 2",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "CH-R-26",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-2": 5
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-27",
+    "Name": "2016 Pack Shell Research Contract",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "",
+    "ManualClaim": false,
+    "RewardItemIDs": [
+        "C-PP-GS-4"
+    ],
+    "RewardExperience": 20000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-3": 5
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-27-1",
+    "Name": "2016 Pack Tier 1",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "CH-R-27",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-3": 5
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-27-2",
+    "Name": "2016 Pack Tier 2",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "CH-R-27",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-3": 5
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-28",
+    "Name": "2016 Trap Shell Research Contract",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "",
+    "ManualClaim": false,
+    "RewardItemIDs": [
+        "C-GT-GS-4"
+    ],
+    "RewardExperience": 20000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-4": 5
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-28-1",
+    "Name": "2016 Trap Tier 1",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "CH-R-28",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-4": 5
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-28-2",
+    "Name": "2016 Trap Tier 2",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "CH-R-28",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-4": 5
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-29",
+    "Name": "Cardboard PKE Shell Research Contract",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "",
+    "ManualClaim": false,
+    "RewardItemIDs": [
+        "C-PK-GS-5"
+    ],
+    "RewardExperience": 20000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-1": 5
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-29-1",
+    "Name": "Cardboard Tier 1",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "CH-R-29",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-1": 5
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-29-2",
+    "Name": "Cardboard Tier 2",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "CH-R-29",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-1": 5
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-3",
+    "Name": "Dual Vertical Grip Research Contract",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "",
+    "ManualClaim": false,
+    "RewardItemIDs": [
+        "G-2-DVG"
+    ],
+    "RewardExperience": 25000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-2": 46
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-30",
+    "Name": "Cardboard Thrower Shell Research Contract",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "",
+    "ManualClaim": false,
+    "RewardItemIDs": [
+        "C-PT-GS-5"
+    ],
+    "RewardExperience": 20000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-2": 5
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-30-1",
+    "Name": "Cardboard Tier 1",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "CH-R-30",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-2": 5
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-30-2",
+    "Name": "Cardboard Tier 2",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "CH-R-30",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-2": 5
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-31",
+    "Name": "Cardboard Pack Shell Research Contract",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "",
+    "ManualClaim": false,
+    "RewardItemIDs": [
+        "C-PP-GS-5"
+    ],
+    "RewardExperience": 20000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-3": 5
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-3-1",
+    "Name": "Dual Vertical Tier 1",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "CH-R-3",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-2": 46
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-31-1",
+    "Name": "Cardboard Tier 1",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "CH-R-31",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-3": 5
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-31-2",
+    "Name": "Cardboard Tier 2",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "CH-R-31",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-3": 5
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-32",
+    "Name": "Cardboard Trap Shell Research Contract",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "",
+    "ManualClaim": false,
+    "RewardItemIDs": [
+        "C-GT-GS-5"
+    ],
+    "RewardExperience": 20000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-4": 5
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-3-2",
+    "Name": "Dual Vertical Tier 2",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "CH-R-3",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-2": 46
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-32-1",
+    "Name": "Cardboard Tier 1",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "CH-R-32",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-4": 5
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-32-2",
+    "Name": "Cardboard Tier 2",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "CH-R-32",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-4": 5
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-33",
+    "Name": "2024 Pack Shell Research Contract",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "",
+    "ManualClaim": false,
+    "RewardItemIDs": [
+        "C-PP-GS-6"
+    ],
+    "RewardExperience": 20000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-3": 5
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-33-1",
+    "Name": "2024 Tier 1",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "CH-R-33",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-3": 5
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-33-2",
+    "Name": "2024 Tier 2",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "CH-R-33",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-3": 5
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-34",
+    "Name": "2024 Thrower Shell Research Contract",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "",
+    "ManualClaim": false,
+    "RewardItemIDs": [
+        "C-PT-GS-6"
+    ],
+    "RewardExperience": 20000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-2": 5
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-34-1",
+    "Name": "2024 Tier 1",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "CH-R-34",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-2": 5
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-34-2",
+    "Name": "2024 Tier 2",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "CH-R-34",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-2": 5
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-35",
+    "Name": "The Classic Pack Shell Research Contract",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "",
+    "ManualClaim": false,
+    "RewardItemIDs": [
+        "C-PP-GS-7"
+    ],
+    "RewardExperience": 20000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-3": 5
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-35-1",
+    "Name": "The Classic Tier 1",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "CH-R-35",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-3": 5
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-35-2",
+    "Name": "The Classic Tier 2",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "CH-R-35",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-3": 5
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-36",
+    "Name": "The Classic Thrower Shell Research Contract",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "",
+    "ManualClaim": false,
+    "RewardItemIDs": [
+        "C-PT-GS-7"
+    ],
+    "RewardExperience": 20000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-2": 5
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-36-1",
+    "Name": "The Classic Tier 1",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "CH-R-36",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-2": 5
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-36-2",
+    "Name": "The Classic Tier 2",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "CH-R-36",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-2": 5
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-37",
+    "Name": "Zeddemore Pack Shell Research Contract",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "",
+    "ManualClaim": false,
+    "RewardItemIDs": [
+        "C-PP-GS-8"
+    ],
+    "RewardExperience": 20000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-3": 5
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-37-1",
+    "Name": "Zeddemore Tier 1",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "CH-R-37",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-3": 5
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-37-2",
+    "Name": "Zeddemore Tier 2",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "CH-R-37",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-3": 5
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-38",
+    "Name": "Zeddemore Thrower Shell Research Contract",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "",
+    "ManualClaim": false,
+    "RewardItemIDs": [
+        "C-PT-GS-8"
+    ],
+    "RewardExperience": 20000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-2": 5
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-38-1",
+    "Name": "Zeddemore Tier 1",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "CH-R-38",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-2": 5
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-38-2",
+    "Name": "Zeddemore Tier 2",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "CH-R-38",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-2": 5
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-4",
+    "Name": "Particle Thruster Research Contract",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "",
+    "ManualClaim": false,
+    "RewardItemIDs": [
+        "G-2-PT"
+    ],
+    "RewardExperience": 25000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-2": 48
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-4-1",
+    "Name": "Particle Thruster Tier 1",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "CH-R-4",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-2": 48
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-4-2",
+    "Name": "Particle Thruster  Tier 2",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "CH-R-4",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-2": 48
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-5",
+    "Name": "Neural Frequency Emitter Research Contract",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "",
+    "ManualClaim": false,
+    "RewardItemIDs": [
+        "G-2-NFE"
+    ],
+    "RewardExperience": 25000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-2": 50
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-5-1",
+    "Name": "Neural Frequency Emitter Tier 1",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "CH-R-5",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-2": 50
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-5-2",
+    "Name": "Neural Frequency Emitter  Tier 2",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "CH-R-5",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-2": 50
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-6",
+    "Name": "Centrifugal Thruster Research Contract",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "",
+    "ManualClaim": false,
+    "RewardItemIDs": [
+        "G-3-CT"
+    ],
+    "RewardExperience": 25000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-3": 20
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-6-1",
+    "Name": "Centrifugal Thruster Tier 1",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "CH-R-6",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-3": 20
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-6-2",
+    "Name": "Centrifugal Thruster Tier 2",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "CH-R-6",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-3": 20
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-7",
+    "Name": "Governor Release Research Contract",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "",
+    "ManualClaim": false,
+    "RewardItemIDs": [
+        "G-3-GR"
+    ],
+    "RewardExperience": 25000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-3": 22
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-7-1",
+    "Name": "Governor Release Tier 1",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "CH-R-7",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-3": 22
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-7-2",
+    "Name": "Governor Release Tier 2",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "CH-R-7",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-3": 22
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-8",
+    "Name": "Cryo Injector Research Contract",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "",
+    "ManualClaim": false,
+    "RewardItemIDs": [
+        "G-3-CI"
+    ],
+    "RewardExperience": 25000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-3": 25
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-8-1",
+    "Name": "Cryo Injector Tier 1",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "CH-R-8",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-3": 25
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-8-2",
+    "Name": "Cryo Injector Tier 2",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "CH-R-8",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-3": 25
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-9",
+    "Name": "Wielder Grip Research Contract",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "",
+    "ManualClaim": false,
+    "RewardItemIDs": [
+        "G-1-WG"
+    ],
+    "RewardExperience": 25000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-1": 21
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-9-1",
+    "Name": "Wielder Grip Tier 1",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "CH-R-9",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-1": 21
+    },
+    "RequiredPlayerLevel": 0
+}, {
+    "ID": "CH-R-9-2",
+    "Name": "Wielder Grip Tier 2",
+    "Category": "ResearchContract",
+    "Disabled": false,
+    "ParentId": "CH-R-9",
+    "ManualClaim": false,
+    "RewardItemIDs": null,
+    "RewardExperience": 5000,
+    "RequiredChallenges": null,
+    "RequiredItemLevels": {
+        "G-1": 21
+    },
+    "RequiredPlayerLevel": 0
+}]

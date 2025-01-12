@@ -1,0 +1,501 @@
+﻿[{
+    "Level": 1,
+    "ToNext": 2750,
+    "Currencies": null,
+    "Experience": 0
+}, {
+    "Level": 10,
+    "ToNext": 6000,
+    "Currencies": null,
+    "Experience": 39250
+}, {
+    "Level": 100,
+    "ToNext": 0,
+    "Currencies": null,
+    "Experience": 2681750
+}, {
+    "Level": 11,
+    "ToNext": 6000,
+    "Currencies": null,
+    "Experience": 45250
+}, {
+    "Level": 12,
+    "ToNext": 6000,
+    "Currencies": null,
+    "Experience": 51250
+}, {
+    "Level": 13,
+    "ToNext": 6000,
+    "Currencies": null,
+    "Experience": 57250
+}, {
+    "Level": 14,
+    "ToNext": 6000,
+    "Currencies": null,
+    "Experience": 63250
+}, {
+    "Level": 15,
+    "ToNext": 7500,
+    "Currencies": null,
+    "Experience": 69250
+}, {
+    "Level": 16,
+    "ToNext": 7500,
+    "Currencies": null,
+    "Experience": 76750
+}, {
+    "Level": 17,
+    "ToNext": 7500,
+    "Currencies": null,
+    "Experience": 84250
+}, {
+    "Level": 18,
+    "ToNext": 7500,
+    "Currencies": null,
+    "Experience": 91750
+}, {
+    "Level": 19,
+    "ToNext": 7500,
+    "Currencies": null,
+    "Experience": 99250
+}, {
+    "Level": 2,
+    "ToNext": 3000,
+    "Currencies": null,
+    "Experience": 2750
+}, {
+    "Level": 20,
+    "ToNext": 10000,
+    "Currencies": null,
+    "Experience": 106750
+}, {
+    "Level": 21,
+    "ToNext": 10000,
+    "Currencies": null,
+    "Experience": 116750
+}, {
+    "Level": 22,
+    "ToNext": 10000,
+    "Currencies": null,
+    "Experience": 126750
+}, {
+    "Level": 23,
+    "ToNext": 10000,
+    "Currencies": null,
+    "Experience": 136750
+}, {
+    "Level": 24,
+    "ToNext": 10000,
+    "Currencies": null,
+    "Experience": 146750
+}, {
+    "Level": 25,
+    "ToNext": 15000,
+    "Currencies": null,
+    "Experience": 156750
+}, {
+    "Level": 26,
+    "ToNext": 15000,
+    "Currencies": null,
+    "Experience": 171750
+}, {
+    "Level": 27,
+    "ToNext": 15000,
+    "Currencies": null,
+    "Experience": 186750
+}, {
+    "Level": 28,
+    "ToNext": 15000,
+    "Currencies": null,
+    "Experience": 201750
+}, {
+    "Level": 29,
+    "ToNext": 15000,
+    "Currencies": null,
+    "Experience": 216750
+}, {
+    "Level": 3,
+    "ToNext": 3500,
+    "Currencies": null,
+    "Experience": 5750
+}, {
+    "Level": 30,
+    "ToNext": 20000,
+    "Currencies": null,
+    "Experience": 231750
+}, {
+    "Level": 31,
+    "ToNext": 20000,
+    "Currencies": null,
+    "Experience": 251750
+}, {
+    "Level": 32,
+    "ToNext": 20000,
+    "Currencies": null,
+    "Experience": 271750
+}, {
+    "Level": 33,
+    "ToNext": 20000,
+    "Currencies": null,
+    "Experience": 291750
+}, {
+    "Level": 34,
+    "ToNext": 20000,
+    "Currencies": null,
+    "Experience": 311750
+}, {
+    "Level": 35,
+    "ToNext": 20000,
+    "Currencies": null,
+    "Experience": 331750
+}, {
+    "Level": 36,
+    "ToNext": 20000,
+    "Currencies": null,
+    "Experience": 351750
+}, {
+    "Level": 37,
+    "ToNext": 20000,
+    "Currencies": null,
+    "Experience": 371750
+}, {
+    "Level": 38,
+    "ToNext": 20000,
+    "Currencies": null,
+    "Experience": 391750
+}, {
+    "Level": 39,
+    "ToNext": 20000,
+    "Currencies": null,
+    "Experience": 411750
+}, {
+    "Level": 4,
+    "ToNext": 5000,
+    "Currencies": null,
+    "Experience": 9250
+}, {
+    "Level": 40,
+    "ToNext": 25000,
+    "Currencies": null,
+    "Experience": 431750
+}, {
+    "Level": 41,
+    "ToNext": 25000,
+    "Currencies": null,
+    "Experience": 456750
+}, {
+    "Level": 42,
+    "ToNext": 25000,
+    "Currencies": null,
+    "Experience": 481750
+}, {
+    "Level": 43,
+    "ToNext": 25000,
+    "Currencies": null,
+    "Experience": 506750
+}, {
+    "Level": 44,
+    "ToNext": 25000,
+    "Currencies": null,
+    "Experience": 531750
+}, {
+    "Level": 45,
+    "ToNext": 25000,
+    "Currencies": null,
+    "Experience": 556750
+}, {
+    "Level": 46,
+    "ToNext": 25000,
+    "Currencies": null,
+    "Experience": 581750
+}, {
+    "Level": 47,
+    "ToNext": 25000,
+    "Currencies": null,
+    "Experience": 606750
+}, {
+    "Level": 48,
+    "ToNext": 25000,
+    "Currencies": null,
+    "Experience": 631750
+}, {
+    "Level": 49,
+    "ToNext": 25000,
+    "Currencies": null,
+    "Experience": 656750
+}, {
+    "Level": 5,
+    "ToNext": 5000,
+    "Currencies": null,
+    "Experience": 14250
+}, {
+    "Level": 50,
+    "ToNext": 30000,
+    "Currencies": null,
+    "Experience": 681750
+}, {
+    "Level": 51,
+    "ToNext": 30000,
+    "Currencies": null,
+    "Experience": 711750
+}, {
+    "Level": 52,
+    "ToNext": 30000,
+    "Currencies": null,
+    "Experience": 741750
+}, {
+    "Level": 53,
+    "ToNext": 30000,
+    "Currencies": null,
+    "Experience": 771750
+}, {
+    "Level": 54,
+    "ToNext": 30000,
+    "Currencies": null,
+    "Experience": 801750
+}, {
+    "Level": 55,
+    "ToNext": 30000,
+    "Currencies": null,
+    "Experience": 831750
+}, {
+    "Level": 56,
+    "ToNext": 30000,
+    "Currencies": null,
+    "Experience": 861750
+}, {
+    "Level": 57,
+    "ToNext": 30000,
+    "Currencies": null,
+    "Experience": 891750
+}, {
+    "Level": 58,
+    "ToNext": 30000,
+    "Currencies": null,
+    "Experience": 921750
+}, {
+    "Level": 59,
+    "ToNext": 30000,
+    "Currencies": null,
+    "Experience": 951750
+}, {
+    "Level": 6,
+    "ToNext": 5000,
+    "Currencies": null,
+    "Experience": 19250
+}, {
+    "Level": 60,
+    "ToNext": 35000,
+    "Currencies": null,
+    "Experience": 981750
+}, {
+    "Level": 61,
+    "ToNext": 35000,
+    "Currencies": null,
+    "Experience": 1016750
+}, {
+    "Level": 62,
+    "ToNext": 35000,
+    "Currencies": null,
+    "Experience": 1051750
+}, {
+    "Level": 63,
+    "ToNext": 35000,
+    "Currencies": null,
+    "Experience": 1086750
+}, {
+    "Level": 64,
+    "ToNext": 35000,
+    "Currencies": null,
+    "Experience": 1121750
+}, {
+    "Level": 65,
+    "ToNext": 35000,
+    "Currencies": null,
+    "Experience": 1156750
+}, {
+    "Level": 66,
+    "ToNext": 35000,
+    "Currencies": null,
+    "Experience": 1191750
+}, {
+    "Level": 67,
+    "ToNext": 35000,
+    "Currencies": null,
+    "Experience": 1226750
+}, {
+    "Level": 68,
+    "ToNext": 35000,
+    "Currencies": null,
+    "Experience": 1261750
+}, {
+    "Level": 69,
+    "ToNext": 35000,
+    "Currencies": null,
+    "Experience": 1296750
+}, {
+    "Level": 7,
+    "ToNext": 5000,
+    "Currencies": null,
+    "Experience": 24250
+}, {
+    "Level": 70,
+    "ToNext": 40000,
+    "Currencies": null,
+    "Experience": 1331750
+}, {
+    "Level": 71,
+    "ToNext": 40000,
+    "Currencies": null,
+    "Experience": 1371750
+}, {
+    "Level": 72,
+    "ToNext": 40000,
+    "Currencies": null,
+    "Experience": 1411750
+}, {
+    "Level": 73,
+    "ToNext": 40000,
+    "Currencies": null,
+    "Experience": 1451750
+}, {
+    "Level": 74,
+    "ToNext": 40000,
+    "Currencies": null,
+    "Experience": 1491750
+}, {
+    "Level": 75,
+    "ToNext": 40000,
+    "Currencies": null,
+    "Experience": 1531750
+}, {
+    "Level": 76,
+    "ToNext": 40000,
+    "Currencies": null,
+    "Experience": 1571750
+}, {
+    "Level": 77,
+    "ToNext": 40000,
+    "Currencies": null,
+    "Experience": 1611750
+}, {
+    "Level": 78,
+    "ToNext": 40000,
+    "Currencies": null,
+    "Experience": 1651750
+}, {
+    "Level": 79,
+    "ToNext": 40000,
+    "Currencies": null,
+    "Experience": 1691750
+}, {
+    "Level": 8,
+    "ToNext": 5000,
+    "Currencies": null,
+    "Experience": 29250
+}, {
+    "Level": 80,
+    "ToNext": 45000,
+    "Currencies": null,
+    "Experience": 1731750
+}, {
+    "Level": 81,
+    "ToNext": 45000,
+    "Currencies": null,
+    "Experience": 1776750
+}, {
+    "Level": 82,
+    "ToNext": 45000,
+    "Currencies": null,
+    "Experience": 1821750
+}, {
+    "Level": 83,
+    "ToNext": 45000,
+    "Currencies": null,
+    "Experience": 1866750
+}, {
+    "Level": 84,
+    "ToNext": 45000,
+    "Currencies": null,
+    "Experience": 1911750
+}, {
+    "Level": 85,
+    "ToNext": 45000,
+    "Currencies": null,
+    "Experience": 1956750
+}, {
+    "Level": 86,
+    "ToNext": 45000,
+    "Currencies": null,
+    "Experience": 2001750
+}, {
+    "Level": 87,
+    "ToNext": 45000,
+    "Currencies": null,
+    "Experience": 2046750
+}, {
+    "Level": 88,
+    "ToNext": 45000,
+    "Currencies": null,
+    "Experience": 2091750
+}, {
+    "Level": 89,
+    "ToNext": 45000,
+    "Currencies": null,
+    "Experience": 2136750
+}, {
+    "Level": 9,
+    "ToNext": 5000,
+    "Currencies": null,
+    "Experience": 34250
+}, {
+    "Level": 90,
+    "ToNext": 50000,
+    "Currencies": null,
+    "Experience": 2181750
+}, {
+    "Level": 91,
+    "ToNext": 50000,
+    "Currencies": null,
+    "Experience": 2231750
+}, {
+    "Level": 92,
+    "ToNext": 50000,
+    "Currencies": null,
+    "Experience": 2281750
+}, {
+    "Level": 93,
+    "ToNext": 50000,
+    "Currencies": null,
+    "Experience": 2331750
+}, {
+    "Level": 94,
+    "ToNext": 50000,
+    "Currencies": null,
+    "Experience": 2381750
+}, {
+    "Level": 95,
+    "ToNext": 50000,
+    "Currencies": null,
+    "Experience": 2431750
+}, {
+    "Level": 96,
+    "ToNext": 50000,
+    "Currencies": null,
+    "Experience": 2481750
+}, {
+    "Level": 97,
+    "ToNext": 50000,
+    "Currencies": null,
+    "Experience": 2531750
+}, {
+    "Level": 98,
+    "ToNext": 50000,
+    "Currencies": null,
+    "Experience": 2581750
+}, {
+    "Level": 99,
+    "ToNext": 50000,
+    "Currencies": null,
+    "Experience": 2631750
+}]

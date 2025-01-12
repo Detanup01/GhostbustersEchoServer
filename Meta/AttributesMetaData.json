@@ -1,0 +1,36 @@
+﻿[{
+    "Name": "SGAttributeSet_GadgetTrap.MaxTrapEnergy",
+    "MaxValue": 1000,
+    "MinValue": 0,
+    "BaseValue": 100,
+    "bCanStack": false,
+    "DerivedAttributeInfo": ""
+}, {
+    "Name": "SGAttributeSet_ProtonPack.OverheatDuration",
+    "MaxValue": 30,
+    "MinValue": 0,
+    "BaseValue": 7,
+    "bCanStack": false,
+    "DerivedAttributeInfo": ""
+}, {
+    "Name": "SGAttributeSet_ProtonPack.OverheatProtectionDuration",
+    "MaxValue": 10,
+    "MinValue": 0,
+    "BaseValue": 0,
+    "bCanStack": false,
+    "DerivedAttributeInfo": ""
+}, {
+    "Name": "SGAttributeSet_ProtonPack.PackRepairSpeedMultiplier",
+    "MaxValue": 10,
+    "MinValue": 0,
+    "BaseValue": 1,
+    "bCanStack": false,
+    "DerivedAttributeInfo": ""
+}, {
+    "Name": "SGAttributeSet_ProtonPack.VentMultiplier",
+    "MaxValue": 100,
+    "MinValue": 0.1,
+    "BaseValue": 1,
+    "bCanStack": false,
+    "DerivedAttributeInfo": ""
+}]

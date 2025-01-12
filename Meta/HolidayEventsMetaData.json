@@ -1,0 +1,19 @@
+﻿[{
+    "ID": "Fall",
+    "Name": "Fall",
+    "EndDate": "11/08",
+    "Disabled": false,
+    "StartDate": "09/01"
+}, {
+    "ID": "Halloween",
+    "Name": "Halloween",
+    "EndDate": "11/08",
+    "Disabled": false,
+    "StartDate": "10/01"
+}, {
+    "ID": "Winter",
+    "Name": "Winter",
+    "EndDate": "1/2",
+    "Disabled": true,
+    "StartDate": "12/10"
+}]

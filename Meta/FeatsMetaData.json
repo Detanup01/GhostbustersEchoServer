@@ -1,0 +1,1128 @@
+﻿[{
+    "ID": "ST-B-25-1",
+    "Goal": 500,
+    "StatID": "ST-B-25",
+    "Category": "Fungi",
+    "Disabled": false,
+    "RewardExp": 10000,
+    "CanBeUnseen": true,
+    "Description": "Fungi Collected 1",
+    "ManualClaim": false,
+    "RewardItems": null,
+    "RemoveOnPrestige": true,
+    "RewardCurrencies": null,
+    "RequiredAchievements": null
+}, {
+    "ID": "ST-B-25-2",
+    "Goal": 750,
+    "StatID": "ST-B-25",
+    "Category": "Fungi",
+    "Disabled": false,
+    "RewardExp": 15000,
+    "CanBeUnseen": true,
+    "Description": "Fungi Collected 2",
+    "ManualClaim": false,
+    "RewardItems": null,
+    "RemoveOnPrestige": true,
+    "RewardCurrencies": null,
+    "RequiredAchievements": [
+        "ST-B-25-1"
+    ]
+}, {
+    "ID": "ST-B-25-3",
+    "Goal": 1000,
+    "StatID": "ST-B-25",
+    "Category": "Fungi",
+    "Disabled": false,
+    "RewardExp": 20000,
+    "CanBeUnseen": true,
+    "Description": "Fungi Collected 3",
+    "ManualClaim": false,
+    "RewardItems": null,
+    "RemoveOnPrestige": true,
+    "RewardCurrencies": null,
+    "RequiredAchievements": [
+        "ST-B-25-2"
+    ]
+}, {
+    "ID": "ST-B-25-4",
+    "Goal": 2000,
+    "StatID": "ST-B-25",
+    "Category": "Fungi",
+    "Disabled": false,
+    "RewardExp": 50000,
+    "CanBeUnseen": true,
+    "Description": "Fungi Collected 4",
+    "ManualClaim": false,
+    "RewardItems": [
+        "C-H-MR",
+        "C-BNT-11",
+        "C-BNT-12",
+        "C-FS-P-11",
+        "C-FS-L-11",
+        "C-FS-CP-0"
+    ],
+    "RemoveOnPrestige": true,
+    "RewardCurrencies": null,
+    "RequiredAchievements": [
+        "ST-B-25-3"
+    ]
+}, {
+    "ID": "ST-B-CL-B-1",
+    "Goal": 1,
+    "StatID": "ST-B-CL-B",
+    "Category": "",
+    "Disabled": false,
+    "RewardExp": 0,
+    "CanBeUnseen": false,
+    "Description": "Newspaper Clipping Brewery 1",
+    "ManualClaim": false,
+    "RewardItems": [
+        "CL-N-B-1"
+    ],
+    "RemoveOnPrestige": true,
+    "RewardCurrencies": null,
+    "RequiredAchievements": null
+}, {
+    "ID": "ST-B-CL-B-2",
+    "Goal": 1,
+    "StatID": "ST-B-CL-B",
+    "Category": "",
+    "Disabled": false,
+    "RewardExp": 0,
+    "CanBeUnseen": false,
+    "Description": "Newspaper Clipping Brewery 2",
+    "ManualClaim": false,
+    "RewardItems": [
+        "CL-N-B-2"
+    ],
+    "RemoveOnPrestige": true,
+    "RewardCurrencies": null,
+    "RequiredAchievements": [
+        "ST-B-CL-B-1"
+    ]
+}, {
+    "ID": "ST-B-CL-B-3",
+    "Goal": 1,
+    "StatID": "ST-B-CL-B",
+    "Category": "",
+    "Disabled": false,
+    "RewardExp": 0,
+    "CanBeUnseen": false,
+    "Description": "Newspaper Clipping Brewery 3",
+    "ManualClaim": false,
+    "RewardItems": [
+        "CL-N-B-3"
+    ],
+    "RemoveOnPrestige": true,
+    "RewardCurrencies": null,
+    "RequiredAchievements": [
+        "ST-B-CL-B-2"
+    ]
+}, {
+    "ID": "ST-B-CL-B-4",
+    "Goal": 1,
+    "StatID": "ST-B-CL-B",
+    "Category": "",
+    "Disabled": false,
+    "RewardExp": 0,
+    "CanBeUnseen": false,
+    "Description": "Newspaper Clipping Brewery 4",
+    "ManualClaim": false,
+    "RewardItems": [
+        "CL-N-B-4"
+    ],
+    "RemoveOnPrestige": true,
+    "RewardCurrencies": null,
+    "RequiredAchievements": [
+        "ST-B-CL-B-3"
+    ]
+}, {
+    "ID": "ST-B-CL-B-5",
+    "Goal": 1,
+    "StatID": "ST-B-CL-B",
+    "Category": "",
+    "Disabled": false,
+    "RewardExp": 0,
+    "CanBeUnseen": false,
+    "Description": "Newspaper Clipping Brewery 5",
+    "ManualClaim": false,
+    "RewardItems": [
+        "CL-N-B-5"
+    ],
+    "RemoveOnPrestige": true,
+    "RewardCurrencies": null,
+    "RequiredAchievements": [
+        "ST-B-CL-B-4"
+    ]
+}, {
+    "ID": "ST-B-CL-CH-1",
+    "Goal": 1,
+    "StatID": "ST-B-CL-CH",
+    "Category": "",
+    "Disabled": false,
+    "RewardExp": 0,
+    "CanBeUnseen": false,
+    "Description": "Newspaper Clipping Courthouse 1",
+    "ManualClaim": false,
+    "RewardItems": [
+        "CL-N-CH-1"
+    ],
+    "RemoveOnPrestige": true,
+    "RewardCurrencies": null,
+    "RequiredAchievements": null
+}, {
+    "ID": "ST-B-CL-CH-2",
+    "Goal": 1,
+    "StatID": "ST-B-CL-CH",
+    "Category": "",
+    "Disabled": false,
+    "RewardExp": 0,
+    "CanBeUnseen": false,
+    "Description": "Newspaper Clipping Courthouse 2",
+    "ManualClaim": false,
+    "RewardItems": [
+        "CL-N-CH-2"
+    ],
+    "RemoveOnPrestige": true,
+    "RewardCurrencies": null,
+    "RequiredAchievements": [
+        "ST-B-CL-CH-1"
+    ]
+}, {
+    "ID": "ST-B-CL-CH-3",
+    "Goal": 1,
+    "StatID": "ST-B-CL-CH",
+    "Category": "",
+    "Disabled": false,
+    "RewardExp": 0,
+    "CanBeUnseen": false,
+    "Description": "Newspaper Clipping Courthouse 3",
+    "ManualClaim": false,
+    "RewardItems": [
+        "CL-N-CH-3"
+    ],
+    "RemoveOnPrestige": true,
+    "RewardCurrencies": null,
+    "RequiredAchievements": [
+        "ST-B-CL-CH-2"
+    ]
+}, {
+    "ID": "ST-B-CL-CH-4",
+    "Goal": 1,
+    "StatID": "ST-B-CL-CH",
+    "Category": "",
+    "Disabled": false,
+    "RewardExp": 0,
+    "CanBeUnseen": false,
+    "Description": "Newspaper Clipping Courthouse 4",
+    "ManualClaim": false,
+    "RewardItems": [
+        "CL-N-CH-4"
+    ],
+    "RemoveOnPrestige": true,
+    "RewardCurrencies": null,
+    "RequiredAchievements": [
+        "ST-B-CL-CH-3"
+    ]
+}, {
+    "ID": "ST-B-CL-CH-5",
+    "Goal": 1,
+    "StatID": "ST-B-CL-CH",
+    "Category": "",
+    "Disabled": false,
+    "RewardExp": 0,
+    "CanBeUnseen": false,
+    "Description": "Newspaper Clipping Courthouse 5",
+    "ManualClaim": false,
+    "RewardItems": [
+        "CL-N-CH-5"
+    ],
+    "RemoveOnPrestige": true,
+    "RewardCurrencies": null,
+    "RequiredAchievements": [
+        "ST-B-CL-CH-4"
+    ]
+}, {
+    "ID": "ST-B-CL-CL-1",
+    "Goal": 1,
+    "StatID": "ST-B-CL-CL",
+    "Category": "",
+    "Disabled": false,
+    "RewardExp": 0,
+    "CanBeUnseen": false,
+    "Description": "Newspaper Clipping Venue 1",
+    "ManualClaim": false,
+    "RewardItems": [
+        "CL-N-CL-1"
+    ],
+    "RemoveOnPrestige": true,
+    "RewardCurrencies": null,
+    "RequiredAchievements": null
+}, {
+    "ID": "ST-B-CL-CL-2",
+    "Goal": 1,
+    "StatID": "ST-B-CL-CL",
+    "Category": "",
+    "Disabled": false,
+    "RewardExp": 0,
+    "CanBeUnseen": false,
+    "Description": "Newspaper Clipping Venue 2",
+    "ManualClaim": false,
+    "RewardItems": [
+        "CL-N-CL-2"
+    ],
+    "RemoveOnPrestige": true,
+    "RewardCurrencies": null,
+    "RequiredAchievements": [
+        "ST-B-CL-CL-1"
+    ]
+}, {
+    "ID": "ST-B-CL-CL-3",
+    "Goal": 1,
+    "StatID": "ST-B-CL-CL",
+    "Category": "",
+    "Disabled": false,
+    "RewardExp": 0,
+    "CanBeUnseen": false,
+    "Description": "Newspaper Clipping Venue 3",
+    "ManualClaim": false,
+    "RewardItems": [
+        "CL-N-CL-3"
+    ],
+    "RemoveOnPrestige": true,
+    "RewardCurrencies": null,
+    "RequiredAchievements": [
+        "ST-B-CL-CL-2"
+    ]
+}, {
+    "ID": "ST-B-CL-CL-4",
+    "Goal": 1,
+    "StatID": "ST-B-CL-CL",
+    "Category": "",
+    "Disabled": false,
+    "RewardExp": 0,
+    "CanBeUnseen": false,
+    "Description": "Newspaper Clipping Venue 4",
+    "ManualClaim": false,
+    "RewardItems": [
+        "CL-N-CL-4"
+    ],
+    "RemoveOnPrestige": true,
+    "RewardCurrencies": null,
+    "RequiredAchievements": [
+        "ST-B-CL-CL-3"
+    ]
+}, {
+    "ID": "ST-B-CL-CL-5",
+    "Goal": 1,
+    "StatID": "ST-B-CL-CL",
+    "Category": "",
+    "Disabled": false,
+    "RewardExp": 0,
+    "CanBeUnseen": false,
+    "Description": "Newspaper Clipping Venue 5",
+    "ManualClaim": false,
+    "RewardItems": [
+        "CL-N-CL-5"
+    ],
+    "RemoveOnPrestige": true,
+    "RewardCurrencies": null,
+    "RequiredAchievements": [
+        "ST-B-CL-CL-4"
+    ]
+}, {
+    "ID": "ST-B-CL-FZ-1",
+    "Goal": 1,
+    "StatID": "ST-B-CL-FZ",
+    "Category": "",
+    "Disabled": false,
+    "RewardExp": 0,
+    "CanBeUnseen": false,
+    "Description": "Newspaper Clipping Funzone 1",
+    "ManualClaim": false,
+    "RewardItems": [
+        "CL-N-FZ-1"
+    ],
+    "RemoveOnPrestige": true,
+    "RewardCurrencies": null,
+    "RequiredAchievements": null
+}, {
+    "ID": "ST-B-CL-FZ-2",
+    "Goal": 1,
+    "StatID": "ST-B-CL-FZ",
+    "Category": "",
+    "Disabled": false,
+    "RewardExp": 0,
+    "CanBeUnseen": false,
+    "Description": "Newspaper Clipping Funzone 2",
+    "ManualClaim": false,
+    "RewardItems": [
+        "CL-N-FZ-2"
+    ],
+    "RemoveOnPrestige": true,
+    "RewardCurrencies": null,
+    "RequiredAchievements": [
+        "ST-B-CL-FZ-1"
+    ]
+}, {
+    "ID": "ST-B-CL-FZ-3",
+    "Goal": 1,
+    "StatID": "ST-B-CL-FZ",
+    "Category": "",
+    "Disabled": false,
+    "RewardExp": 0,
+    "CanBeUnseen": false,
+    "Description": "Newspaper Clipping Funzone 3",
+    "ManualClaim": false,
+    "RewardItems": [
+        "CL-N-FZ-3"
+    ],
+    "RemoveOnPrestige": true,
+    "RewardCurrencies": null,
+    "RequiredAchievements": [
+        "ST-B-CL-FZ-2"
+    ]
+}, {
+    "ID": "ST-B-CL-FZ-4",
+    "Goal": 1,
+    "StatID": "ST-B-CL-FZ",
+    "Category": "",
+    "Disabled": false,
+    "RewardExp": 0,
+    "CanBeUnseen": false,
+    "Description": "Newspaper Clipping Funzone 4",
+    "ManualClaim": false,
+    "RewardItems": [
+        "CL-N-FZ-4"
+    ],
+    "RemoveOnPrestige": true,
+    "RewardCurrencies": null,
+    "RequiredAchievements": [
+        "ST-B-CL-FZ-3"
+    ]
+}, {
+    "ID": "ST-B-CL-FZ-5",
+    "Goal": 1,
+    "StatID": "ST-B-CL-FZ",
+    "Category": "",
+    "Disabled": false,
+    "RewardExp": 0,
+    "CanBeUnseen": false,
+    "Description": "Newspaper Clipping Funzone 5",
+    "ManualClaim": false,
+    "RewardItems": [
+        "CL-N-FZ-5"
+    ],
+    "RemoveOnPrestige": true,
+    "RewardCurrencies": null,
+    "RequiredAchievements": [
+        "ST-B-CL-FZ-4"
+    ]
+}, {
+    "ID": "ST-B-CL-L-1",
+    "Goal": 1,
+    "StatID": "ST-B-CL-L",
+    "Category": "",
+    "Disabled": false,
+    "RewardExp": 0,
+    "CanBeUnseen": false,
+    "Description": "Newspaper Clipping Lodge 1",
+    "ManualClaim": false,
+    "RewardItems": [
+        "CL-N-L-1"
+    ],
+    "RemoveOnPrestige": true,
+    "RewardCurrencies": null,
+    "RequiredAchievements": null
+}, {
+    "ID": "ST-B-CL-L-2",
+    "Goal": 1,
+    "StatID": "ST-B-CL-L",
+    "Category": "",
+    "Disabled": false,
+    "RewardExp": 0,
+    "CanBeUnseen": false,
+    "Description": "Newspaper Clipping Lodge 2",
+    "ManualClaim": false,
+    "RewardItems": [
+        "CL-N-L-2"
+    ],
+    "RemoveOnPrestige": true,
+    "RewardCurrencies": null,
+    "RequiredAchievements": [
+        "ST-B-CL-L-1"
+    ]
+}, {
+    "ID": "ST-B-CL-L-3",
+    "Goal": 1,
+    "StatID": "ST-B-CL-L",
+    "Category": "",
+    "Disabled": false,
+    "RewardExp": 0,
+    "CanBeUnseen": false,
+    "Description": "Newspaper Clipping Lodge 3",
+    "ManualClaim": false,
+    "RewardItems": [
+        "CL-N-L-3"
+    ],
+    "RemoveOnPrestige": true,
+    "RewardCurrencies": null,
+    "RequiredAchievements": [
+        "ST-B-CL-L-2"
+    ]
+}, {
+    "ID": "ST-B-CL-L-4",
+    "Goal": 1,
+    "StatID": "ST-B-CL-L",
+    "Category": "",
+    "Disabled": false,
+    "RewardExp": 0,
+    "CanBeUnseen": false,
+    "Description": "Newspaper Clipping Lodge 4",
+    "ManualClaim": false,
+    "RewardItems": [
+        "CL-N-L-4"
+    ],
+    "RemoveOnPrestige": true,
+    "RewardCurrencies": null,
+    "RequiredAchievements": [
+        "ST-B-CL-L-3"
+    ]
+}, {
+    "ID": "ST-B-CL-L-5",
+    "Goal": 1,
+    "StatID": "ST-B-CL-L",
+    "Category": "",
+    "Disabled": false,
+    "RewardExp": 0,
+    "CanBeUnseen": false,
+    "Description": "Newspaper Clipping Lodge 5",
+    "ManualClaim": false,
+    "RewardItems": [
+        "CL-N-L-5"
+    ],
+    "RemoveOnPrestige": true,
+    "RewardCurrencies": null,
+    "RequiredAchievements": [
+        "ST-B-CL-L-4"
+    ]
+}, {
+    "ID": "ST-B-CL-M-1",
+    "Goal": 1,
+    "StatID": "ST-B-CL-M",
+    "Category": "",
+    "Disabled": false,
+    "RewardExp": 0,
+    "CanBeUnseen": false,
+    "Description": "Newspaper Clipping Museum 1",
+    "ManualClaim": false,
+    "RewardItems": [
+        "CL-N-M-1"
+    ],
+    "RemoveOnPrestige": true,
+    "RewardCurrencies": null,
+    "RequiredAchievements": null
+}, {
+    "ID": "ST-B-CL-M-2",
+    "Goal": 1,
+    "StatID": "ST-B-CL-M",
+    "Category": "",
+    "Disabled": false,
+    "RewardExp": 0,
+    "CanBeUnseen": false,
+    "Description": "Newspaper Clipping Museum 2",
+    "ManualClaim": false,
+    "RewardItems": [
+        "CL-N-M-2"
+    ],
+    "RemoveOnPrestige": true,
+    "RewardCurrencies": null,
+    "RequiredAchievements": [
+        "ST-B-CL-M-1"
+    ]
+}, {
+    "ID": "ST-B-CL-M-3",
+    "Goal": 1,
+    "StatID": "ST-B-CL-M",
+    "Category": "",
+    "Disabled": false,
+    "RewardExp": 0,
+    "CanBeUnseen": false,
+    "Description": "Newspaper Clipping Museum 3",
+    "ManualClaim": false,
+    "RewardItems": [
+        "CL-N-M-3"
+    ],
+    "RemoveOnPrestige": true,
+    "RewardCurrencies": null,
+    "RequiredAchievements": [
+        "ST-B-CL-M-2"
+    ]
+}, {
+    "ID": "ST-B-CL-M-4",
+    "Goal": 1,
+    "StatID": "ST-B-CL-M",
+    "Category": "",
+    "Disabled": false,
+    "RewardExp": 0,
+    "CanBeUnseen": false,
+    "Description": "Newspaper Clipping Museum 4",
+    "ManualClaim": false,
+    "RewardItems": [
+        "CL-N-M-4"
+    ],
+    "RemoveOnPrestige": true,
+    "RewardCurrencies": null,
+    "RequiredAchievements": [
+        "ST-B-CL-M-3"
+    ]
+}, {
+    "ID": "ST-B-CL-M-5",
+    "Goal": 1,
+    "StatID": "ST-B-CL-M",
+    "Category": "",
+    "Disabled": false,
+    "RewardExp": 0,
+    "CanBeUnseen": false,
+    "Description": "Newspaper Clipping Museum 5",
+    "ManualClaim": false,
+    "RewardItems": [
+        "CL-N-M-5"
+    ],
+    "RemoveOnPrestige": true,
+    "RewardCurrencies": null,
+    "RequiredAchievements": [
+        "ST-B-CL-M-4"
+    ]
+}, {
+    "ID": "ST-B-CL-MF-1",
+    "Goal": 1,
+    "StatID": "ST-B-CL-MF",
+    "Category": "",
+    "Disabled": false,
+    "RewardExp": 0,
+    "CanBeUnseen": false,
+    "Description": "Newspaper Clipping Facility 1",
+    "ManualClaim": false,
+    "RewardItems": [
+        "CL-N-MF-1"
+    ],
+    "RemoveOnPrestige": true,
+    "RewardCurrencies": null,
+    "RequiredAchievements": null
+}, {
+    "ID": "ST-B-CL-MF-2",
+    "Goal": 1,
+    "StatID": "ST-B-CL-MF",
+    "Category": "",
+    "Disabled": false,
+    "RewardExp": 0,
+    "CanBeUnseen": false,
+    "Description": "Newspaper Clipping Facility 2",
+    "ManualClaim": false,
+    "RewardItems": [
+        "CL-N-MF-2"
+    ],
+    "RemoveOnPrestige": true,
+    "RewardCurrencies": null,
+    "RequiredAchievements": [
+        "ST-B-CL-MF-1"
+    ]
+}, {
+    "ID": "ST-B-CL-MF-3",
+    "Goal": 1,
+    "StatID": "ST-B-CL-MF",
+    "Category": "",
+    "Disabled": false,
+    "RewardExp": 0,
+    "CanBeUnseen": false,
+    "Description": "Newspaper Clipping Facility 3",
+    "ManualClaim": false,
+    "RewardItems": [
+        "CL-N-MF-3"
+    ],
+    "RemoveOnPrestige": true,
+    "RewardCurrencies": null,
+    "RequiredAchievements": [
+        "ST-B-CL-MF-2"
+    ]
+}, {
+    "ID": "ST-B-CL-MF-4",
+    "Goal": 1,
+    "StatID": "ST-B-CL-MF",
+    "Category": "",
+    "Disabled": false,
+    "RewardExp": 0,
+    "CanBeUnseen": false,
+    "Description": "Newspaper Clipping Facility 4",
+    "ManualClaim": false,
+    "RewardItems": [
+        "CL-N-MF-4"
+    ],
+    "RemoveOnPrestige": true,
+    "RewardCurrencies": null,
+    "RequiredAchievements": [
+        "ST-B-CL-MF-3"
+    ]
+}, {
+    "ID": "ST-B-CL-MF-5",
+    "Goal": 1,
+    "StatID": "ST-B-CL-MF",
+    "Category": "",
+    "Disabled": false,
+    "RewardExp": 0,
+    "CanBeUnseen": false,
+    "Description": "Newspaper Clipping Facility 5",
+    "ManualClaim": false,
+    "RewardItems": [
+        "CL-N-MF-5"
+    ],
+    "RemoveOnPrestige": true,
+    "RewardCurrencies": null,
+    "RequiredAchievements": [
+        "ST-B-CL-MF-4"
+    ]
+}, {
+    "ID": "ST-B-CL-P-1",
+    "Goal": 1,
+    "StatID": "ST-B-CL-P",
+    "Category": "",
+    "Disabled": false,
+    "RewardExp": 0,
+    "CanBeUnseen": false,
+    "Description": "Newspaper Clipping Prision 1",
+    "ManualClaim": false,
+    "RewardItems": [
+        "CL-N-P-1"
+    ],
+    "RemoveOnPrestige": true,
+    "RewardCurrencies": null,
+    "RequiredAchievements": null
+}, {
+    "ID": "ST-B-CL-P-2",
+    "Goal": 1,
+    "StatID": "ST-B-CL-P",
+    "Category": "",
+    "Disabled": false,
+    "RewardExp": 0,
+    "CanBeUnseen": false,
+    "Description": "Newspaper Clipping Prision 2",
+    "ManualClaim": false,
+    "RewardItems": [
+        "CL-N-P-2"
+    ],
+    "RemoveOnPrestige": true,
+    "RewardCurrencies": null,
+    "RequiredAchievements": [
+        "ST-B-CL-P-1"
+    ]
+}, {
+    "ID": "ST-B-CL-P-3",
+    "Goal": 1,
+    "StatID": "ST-B-CL-P",
+    "Category": "",
+    "Disabled": false,
+    "RewardExp": 0,
+    "CanBeUnseen": false,
+    "Description": "Newspaper Clipping Prision 3",
+    "ManualClaim": false,
+    "RewardItems": [
+        "CL-N-P-3"
+    ],
+    "RemoveOnPrestige": true,
+    "RewardCurrencies": null,
+    "RequiredAchievements": [
+        "ST-B-CL-P-2"
+    ]
+}, {
+    "ID": "ST-B-CL-P-4",
+    "Goal": 1,
+    "StatID": "ST-B-CL-P",
+    "Category": "",
+    "Disabled": false,
+    "RewardExp": 0,
+    "CanBeUnseen": false,
+    "Description": "Newspaper Clipping Prision 4",
+    "ManualClaim": false,
+    "RewardItems": [
+        "CL-N-P-4"
+    ],
+    "RemoveOnPrestige": true,
+    "RewardCurrencies": null,
+    "RequiredAchievements": [
+        "ST-B-CL-P-3"
+    ]
+}, {
+    "ID": "ST-B-CL-P-5",
+    "Goal": 1,
+    "StatID": "ST-B-CL-P",
+    "Category": "",
+    "Disabled": false,
+    "RewardExp": 0,
+    "CanBeUnseen": false,
+    "Description": "Newspaper Clipping Prision 5",
+    "ManualClaim": false,
+    "RewardItems": [
+        "CL-N-P-5"
+    ],
+    "RemoveOnPrestige": true,
+    "RewardCurrencies": null,
+    "RequiredAchievements": [
+        "ST-B-CL-P-4"
+    ]
+}, {
+    "ID": "ST-B-CL-S-1",
+    "Goal": 1,
+    "StatID": "ST-B-CL-S",
+    "Category": "",
+    "Disabled": false,
+    "RewardExp": 0,
+    "CanBeUnseen": false,
+    "Description": "Newspaper Clipping Ship 1",
+    "ManualClaim": false,
+    "RewardItems": [
+        "CL-N-S-1"
+    ],
+    "RemoveOnPrestige": true,
+    "RewardCurrencies": null,
+    "RequiredAchievements": null
+}, {
+    "ID": "ST-B-CL-S-2",
+    "Goal": 1,
+    "StatID": "ST-B-CL-S",
+    "Category": "",
+    "Disabled": false,
+    "RewardExp": 0,
+    "CanBeUnseen": false,
+    "Description": "Newspaper Clipping Ship 2",
+    "ManualClaim": false,
+    "RewardItems": [
+        "CL-N-S-2"
+    ],
+    "RemoveOnPrestige": true,
+    "RewardCurrencies": null,
+    "RequiredAchievements": [
+        "ST-B-CL-S-1"
+    ]
+}, {
+    "ID": "ST-B-CL-S-3",
+    "Goal": 1,
+    "StatID": "ST-B-CL-S",
+    "Category": "",
+    "Disabled": false,
+    "RewardExp": 0,
+    "CanBeUnseen": false,
+    "Description": "Newspaper Clipping Ship 3",
+    "ManualClaim": false,
+    "RewardItems": [
+        "CL-N-S-3"
+    ],
+    "RemoveOnPrestige": true,
+    "RewardCurrencies": null,
+    "RequiredAchievements": [
+        "ST-B-CL-S-2"
+    ]
+}, {
+    "ID": "ST-B-CL-S-4",
+    "Goal": 1,
+    "StatID": "ST-B-CL-S",
+    "Category": "",
+    "Disabled": false,
+    "RewardExp": 0,
+    "CanBeUnseen": false,
+    "Description": "Newspaper Clipping Ship 4",
+    "ManualClaim": false,
+    "RewardItems": [
+        "CL-N-S-4"
+    ],
+    "RemoveOnPrestige": true,
+    "RewardCurrencies": null,
+    "RequiredAchievements": [
+        "ST-B-CL-S-3"
+    ]
+}, {
+    "ID": "ST-B-CL-S-5",
+    "Goal": 1,
+    "StatID": "ST-B-CL-S",
+    "Category": "",
+    "Disabled": false,
+    "RewardExp": 0,
+    "CanBeUnseen": false,
+    "Description": "Newspaper Clipping Ship 5",
+    "ManualClaim": false,
+    "RewardItems": [
+        "CL-N-S-5"
+    ],
+    "RemoveOnPrestige": true,
+    "RewardCurrencies": null,
+    "RequiredAchievements": [
+        "ST-B-CL-S-4"
+    ]
+}, {
+    "ID": "ST-B-CL-ST-1",
+    "Goal": 1,
+    "StatID": "ST-B-CL-ST",
+    "Category": "",
+    "Disabled": false,
+    "RewardExp": 0,
+    "CanBeUnseen": false,
+    "Description": "Newspaper Clipping Station 1",
+    "ManualClaim": false,
+    "RewardItems": [
+        "CL-N-ST-1"
+    ],
+    "RemoveOnPrestige": true,
+    "RewardCurrencies": null,
+    "RequiredAchievements": null
+}, {
+    "ID": "ST-B-CL-ST-2",
+    "Goal": 1,
+    "StatID": "ST-B-CL-ST",
+    "Category": "",
+    "Disabled": false,
+    "RewardExp": 0,
+    "CanBeUnseen": false,
+    "Description": "Newspaper Clipping Station 2",
+    "ManualClaim": false,
+    "RewardItems": [
+        "CL-N-ST-2"
+    ],
+    "RemoveOnPrestige": true,
+    "RewardCurrencies": null,
+    "RequiredAchievements": [
+        "ST-B-CL-ST-1"
+    ]
+}, {
+    "ID": "ST-B-CL-ST-3",
+    "Goal": 1,
+    "StatID": "ST-B-CL-ST",
+    "Category": "",
+    "Disabled": false,
+    "RewardExp": 0,
+    "CanBeUnseen": false,
+    "Description": "Newspaper Clipping Station 3",
+    "ManualClaim": false,
+    "RewardItems": [
+        "CL-N-ST-3"
+    ],
+    "RemoveOnPrestige": true,
+    "RewardCurrencies": null,
+    "RequiredAchievements": [
+        "ST-B-CL-ST-2"
+    ]
+}, {
+    "ID": "ST-B-CL-ST-4",
+    "Goal": 1,
+    "StatID": "ST-B-CL-ST",
+    "Category": "",
+    "Disabled": false,
+    "RewardExp": 0,
+    "CanBeUnseen": false,
+    "Description": "Newspaper Clipping Station 4",
+    "ManualClaim": false,
+    "RewardItems": [
+        "CL-N-ST-4"
+    ],
+    "RemoveOnPrestige": true,
+    "RewardCurrencies": null,
+    "RequiredAchievements": [
+        "ST-B-CL-ST-3"
+    ]
+}, {
+    "ID": "ST-B-CL-ST-5",
+    "Goal": 1,
+    "StatID": "ST-B-CL-ST",
+    "Category": "",
+    "Disabled": false,
+    "RewardExp": 0,
+    "CanBeUnseen": false,
+    "Description": "Newspaper Clipping Station 5",
+    "ManualClaim": false,
+    "RewardItems": [
+        "CL-N-ST-5"
+    ],
+    "RemoveOnPrestige": true,
+    "RewardCurrencies": null,
+    "RequiredAchievements": [
+        "ST-B-CL-ST-4"
+    ]
+}, {
+    "ID": "ST-G-48-1",
+    "Goal": 1,
+    "StatID": "ST-G-48",
+    "Category": "",
+    "Disabled": false,
+    "RewardExp": 0,
+    "CanBeUnseen": false,
+    "Description": "Tobin Page 1",
+    "ManualClaim": false,
+    "RewardItems": [
+        "CL-T-1"
+    ],
+    "RemoveOnPrestige": false,
+    "RewardCurrencies": null,
+    "RequiredAchievements": null
+}, {
+    "ID": "ST-G-48-10",
+    "Goal": 1,
+    "StatID": "ST-G-48",
+    "Category": "",
+    "Disabled": false,
+    "RewardExp": 0,
+    "CanBeUnseen": false,
+    "Description": "Tobin Page 10",
+    "ManualClaim": false,
+    "RewardItems": [
+        "CL-T-10"
+    ],
+    "RemoveOnPrestige": false,
+    "RewardCurrencies": null,
+    "RequiredAchievements": [
+        "ST-G-48-9"
+    ]
+}, {
+    "ID": "ST-G-48-2",
+    "Goal": 1,
+    "StatID": "ST-G-48",
+    "Category": "",
+    "Disabled": false,
+    "RewardExp": 0,
+    "CanBeUnseen": false,
+    "Description": "Tobin Page 2",
+    "ManualClaim": false,
+    "RewardItems": [
+        "CL-T-2"
+    ],
+    "RemoveOnPrestige": false,
+    "RewardCurrencies": null,
+    "RequiredAchievements": [
+        "ST-G-48-1"
+    ]
+}, {
+    "ID": "ST-G-48-3",
+    "Goal": 1,
+    "StatID": "ST-G-48",
+    "Category": "",
+    "Disabled": false,
+    "RewardExp": 0,
+    "CanBeUnseen": false,
+    "Description": "Tobin Page 3",
+    "ManualClaim": false,
+    "RewardItems": [
+        "CL-T-3"
+    ],
+    "RemoveOnPrestige": false,
+    "RewardCurrencies": null,
+    "RequiredAchievements": [
+        "ST-G-48-2"
+    ]
+}, {
+    "ID": "ST-G-48-4",
+    "Goal": 1,
+    "StatID": "ST-G-48",
+    "Category": "",
+    "Disabled": false,
+    "RewardExp": 0,
+    "CanBeUnseen": false,
+    "Description": "Tobin Page 4",
+    "ManualClaim": false,
+    "RewardItems": [
+        "CL-T-4"
+    ],
+    "RemoveOnPrestige": false,
+    "RewardCurrencies": null,
+    "RequiredAchievements": [
+        "ST-G-48-3"
+    ]
+}, {
+    "ID": "ST-G-48-5",
+    "Goal": 1,
+    "StatID": "ST-G-48",
+    "Category": "",
+    "Disabled": false,
+    "RewardExp": 0,
+    "CanBeUnseen": false,
+    "Description": "Tobin Page 5",
+    "ManualClaim": false,
+    "RewardItems": [
+        "CL-T-5"
+    ],
+    "RemoveOnPrestige": false,
+    "RewardCurrencies": null,
+    "RequiredAchievements": [
+        "ST-G-48-4"
+    ]
+}, {
+    "ID": "ST-G-48-6",
+    "Goal": 1,
+    "StatID": "ST-G-48",
+    "Category": "",
+    "Disabled": false,
+    "RewardExp": 0,
+    "CanBeUnseen": false,
+    "Description": "Tobin Page 6",
+    "ManualClaim": false,
+    "RewardItems": [
+        "CL-T-6"
+    ],
+    "RemoveOnPrestige": false,
+    "RewardCurrencies": null,
+    "RequiredAchievements": [
+        "ST-G-48-5"
+    ]
+}, {
+    "ID": "ST-G-48-7",
+    "Goal": 1,
+    "StatID": "ST-G-48",
+    "Category": "",
+    "Disabled": false,
+    "RewardExp": 0,
+    "CanBeUnseen": false,
+    "Description": "Tobin Page 7",
+    "ManualClaim": false,
+    "RewardItems": [
+        "CL-T-7"
+    ],
+    "RemoveOnPrestige": false,
+    "RewardCurrencies": null,
+    "RequiredAchievements": [
+        "ST-G-48-6"
+    ]
+}, {
+    "ID": "ST-G-48-8",
+    "Goal": 1,
+    "StatID": "ST-G-48",
+    "Category": "",
+    "Disabled": false,
+    "RewardExp": 0,
+    "CanBeUnseen": false,
+    "Description": "Tobin Page 8",
+    "ManualClaim": false,
+    "RewardItems": [
+        "CL-T-8"
+    ],
+    "RemoveOnPrestige": false,
+    "RewardCurrencies": null,
+    "RequiredAchievements": [
+        "ST-G-48-7"
+    ]
+}, {
+    "ID": "ST-G-48-9",
+    "Goal": 1,
+    "StatID": "ST-G-48",
+    "Category": "",
+    "Disabled": false,
+    "RewardExp": 0,
+    "CanBeUnseen": false,
+    "Description": "Tobin Page 9",
+    "ManualClaim": false,
+    "RewardItems": [
+        "CL-T-9"
+    ],
+    "RemoveOnPrestige": false,
+    "RewardCurrencies": null,
+    "RequiredAchievements": [
+        "ST-G-48-8"
+    ]
+}]

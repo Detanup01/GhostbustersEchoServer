@@ -1,0 +1,348 @@
+﻿[{
+    "ID": "N-10-A",
+    "Cost": null,
+    "Disabled": false,
+    "PurchaseType": "Narrative",
+    "PackagedItems": null,
+    "RequiredItems": [
+        "N-9-B"
+    ],
+    "RequiredLevel": 42,
+    "DiscountPercent": 0,
+    "RequiredParentLevel": 0
+}, {
+    "ID": "N-10-B",
+    "Cost": null,
+    "Disabled": false,
+    "PurchaseType": "NarrativePostAct",
+    "PackagedItems": [
+        "GH-10",
+        "C-FS-C",
+        "C-FS-CS-0",
+        "C-FS-CS-1",
+        "C-FS-CS-2",
+        "C-FS-CS-3",
+        "C-FS-CS-6",
+        "C-FS-CS-11"
+    ],
+    "RequiredItems": [
+        "N-10-A"
+    ],
+    "RequiredLevel": 42,
+    "DiscountPercent": 0,
+    "RequiredParentLevel": 0
+}, {
+    "ID": "N-1-B",
+    "Cost": null,
+    "Disabled": false,
+    "PurchaseType": "NarrativePostAct",
+    "PackagedItems": null,
+    "RequiredItems": [
+        "N-T-3"
+    ],
+    "RequiredLevel": -1,
+    "DiscountPercent": 0,
+    "RequiredParentLevel": 0
+}, {
+    "ID": "N-2-B",
+    "Cost": null,
+    "Disabled": false,
+    "PurchaseType": "NarrativePostAct",
+    "PackagedItems": null,
+    "RequiredItems": [
+        "N-T-5"
+    ],
+    "RequiredLevel": 4,
+    "DiscountPercent": 0,
+    "RequiredParentLevel": 0
+}, {
+    "ID": "N-3-A",
+    "Cost": null,
+    "Disabled": false,
+    "PurchaseType": "Narrative",
+    "PackagedItems": null,
+    "RequiredItems": [
+        "N-2-B"
+    ],
+    "RequiredLevel": 13,
+    "DiscountPercent": 0,
+    "RequiredParentLevel": 0
+}, {
+    "ID": "N-3-B",
+    "Cost": null,
+    "Disabled": false,
+    "PurchaseType": "NarrativePostAct",
+    "PackagedItems": null,
+    "RequiredItems": [
+        "N-3-A"
+    ],
+    "RequiredLevel": 13,
+    "DiscountPercent": 0,
+    "RequiredParentLevel": 0
+}, {
+    "ID": "N-4-A",
+    "Cost": null,
+    "Disabled": false,
+    "PurchaseType": "Narrative",
+    "PackagedItems": null,
+    "RequiredItems": [
+        "N-3-B"
+    ],
+    "RequiredLevel": 20,
+    "DiscountPercent": 0,
+    "RequiredParentLevel": 0
+}, {
+    "ID": "N-4-B",
+    "Cost": null,
+    "Disabled": false,
+    "PurchaseType": "NarrativePostAct",
+    "PackagedItems": null,
+    "RequiredItems": [
+        "N-4-A"
+    ],
+    "RequiredLevel": 20,
+    "DiscountPercent": 0,
+    "RequiredParentLevel": 0
+}, {
+    "ID": "N-5-A",
+    "Cost": null,
+    "Disabled": false,
+    "PurchaseType": "Narrative",
+    "PackagedItems": null,
+    "RequiredItems": [
+        "N-4-B"
+    ],
+    "RequiredLevel": 26,
+    "DiscountPercent": 0,
+    "RequiredParentLevel": 0
+}, {
+    "ID": "N-5-B",
+    "Cost": null,
+    "Disabled": false,
+    "PurchaseType": "NarrativePostAct",
+    "PackagedItems": null,
+    "RequiredItems": [
+        "N-5-A"
+    ],
+    "RequiredLevel": 26,
+    "DiscountPercent": 0,
+    "RequiredParentLevel": 0
+}, {
+    "ID": "N-6-A",
+    "Cost": null,
+    "Disabled": false,
+    "PurchaseType": "Narrative",
+    "PackagedItems": null,
+    "RequiredItems": [
+        "N-5-B"
+    ],
+    "RequiredLevel": 30,
+    "DiscountPercent": 0,
+    "RequiredParentLevel": 0
+}, {
+    "ID": "N-6-B",
+    "Cost": null,
+    "Disabled": false,
+    "PurchaseType": "NarrativePostAct",
+    "PackagedItems": null,
+    "RequiredItems": [
+        "N-6-A"
+    ],
+    "RequiredLevel": 30,
+    "DiscountPercent": 0,
+    "RequiredParentLevel": 0
+}, {
+    "ID": "N-7-A",
+    "Cost": null,
+    "Disabled": false,
+    "PurchaseType": "Narrative",
+    "PackagedItems": null,
+    "RequiredItems": [
+        "N-6-B"
+    ],
+    "RequiredLevel": 33,
+    "DiscountPercent": 0,
+    "RequiredParentLevel": 0
+}, {
+    "ID": "N-7-B",
+    "Cost": null,
+    "Disabled": false,
+    "PurchaseType": "NarrativePostAct",
+    "PackagedItems": null,
+    "RequiredItems": [
+        "N-7-A"
+    ],
+    "RequiredLevel": 33,
+    "DiscountPercent": 0,
+    "RequiredParentLevel": 0
+}, {
+    "ID": "N-8-A",
+    "Cost": null,
+    "Disabled": false,
+    "PurchaseType": "Narrative",
+    "PackagedItems": null,
+    "RequiredItems": [
+        "N-7-B"
+    ],
+    "RequiredLevel": 36,
+    "DiscountPercent": 0,
+    "RequiredParentLevel": 0
+}, {
+    "ID": "N-8-B",
+    "Cost": null,
+    "Disabled": false,
+    "PurchaseType": "NarrativePostAct",
+    "PackagedItems": null,
+    "RequiredItems": [
+        "N-8-A"
+    ],
+    "RequiredLevel": 36,
+    "DiscountPercent": 0,
+    "RequiredParentLevel": 0
+}, {
+    "ID": "N-9-A",
+    "Cost": null,
+    "Disabled": false,
+    "PurchaseType": "Narrative",
+    "PackagedItems": null,
+    "RequiredItems": [
+        "N-8-B"
+    ],
+    "RequiredLevel": 39,
+    "DiscountPercent": 0,
+    "RequiredParentLevel": 0
+}, {
+    "ID": "N-9-B",
+    "Cost": null,
+    "Disabled": false,
+    "PurchaseType": "NarrativePostAct",
+    "PackagedItems": null,
+    "RequiredItems": [
+        "N-9-A"
+    ],
+    "RequiredLevel": 39,
+    "DiscountPercent": 0,
+    "RequiredParentLevel": 0
+}, {
+    "ID": "N-T-1",
+    "Cost": null,
+    "Disabled": false,
+    "PurchaseType": "Narrative",
+    "PackagedItems": null,
+    "RequiredItems": null,
+    "RequiredLevel": -1,
+    "DiscountPercent": 0,
+    "RequiredParentLevel": 0
+}, {
+    "ID": "N-T-2",
+    "Cost": null,
+    "Disabled": false,
+    "PurchaseType": "Narrative",
+    "PackagedItems": null,
+    "RequiredItems": [
+        "N-T-1"
+    ],
+    "RequiredLevel": -1,
+    "DiscountPercent": 0,
+    "RequiredParentLevel": 0
+}, {
+    "ID": "N-T-3",
+    "Cost": null,
+    "Disabled": false,
+    "PurchaseType": "Narrative",
+    "PackagedItems": null,
+    "RequiredItems": [
+        "N-T-2"
+    ],
+    "RequiredLevel": -1,
+    "DiscountPercent": 0,
+    "RequiredParentLevel": 0
+}, {
+    "ID": "N-T-4",
+    "Cost": null,
+    "Disabled": false,
+    "PurchaseType": "Narrative",
+    "PackagedItems": null,
+    "RequiredItems": [
+        "N-1-B"
+    ],
+    "RequiredLevel": 4,
+    "DiscountPercent": 0,
+    "RequiredParentLevel": 0
+}, {
+    "ID": "N-T-5",
+    "Cost": null,
+    "Disabled": false,
+    "PurchaseType": "Narrative",
+    "PackagedItems": null,
+    "RequiredItems": [
+        "N-T-4"
+    ],
+    "RequiredLevel": 4,
+    "DiscountPercent": 0,
+    "RequiredParentLevel": 0
+}, {
+    "ID": "N-T-BS",
+    "Cost": null,
+    "Disabled": false,
+    "PurchaseType": "NarrativeSkip",
+    "PackagedItems": [
+        "N-T-1",
+        "N-T-2",
+        "N-T-3"
+    ],
+    "RequiredItems": null,
+    "RequiredLevel": -1,
+    "DiscountPercent": 0,
+    "RequiredParentLevel": 0
+}, {
+    "ID": "N-T-BS-1",
+    "Cost": null,
+    "Disabled": false,
+    "PurchaseType": "NarrativeSkip",
+    "PackagedItems": [
+        "N-T-2",
+        "N-T-3"
+    ],
+    "RequiredItems": null,
+    "RequiredLevel": -1,
+    "DiscountPercent": 0,
+    "RequiredParentLevel": 0
+}, {
+    "ID": "N-T-BS-2",
+    "Cost": null,
+    "Disabled": false,
+    "PurchaseType": "NarrativeSkip",
+    "PackagedItems": [
+        "N-T-3"
+    ],
+    "RequiredItems": null,
+    "RequiredLevel": -1,
+    "DiscountPercent": 0,
+    "RequiredParentLevel": 0
+}, {
+    "ID": "N-T-GS",
+    "Cost": null,
+    "Disabled": false,
+    "PurchaseType": "NarrativeSkip",
+    "PackagedItems": [
+        "N-T-4",
+        "N-T-5"
+    ],
+    "RequiredItems": null,
+    "RequiredLevel": -1,
+    "DiscountPercent": 0,
+    "RequiredParentLevel": 0
+}, {
+    "ID": "N-T-GS-1",
+    "Cost": null,
+    "Disabled": false,
+    "PurchaseType": "NarrativeSkip",
+    "PackagedItems": [
+        "N-T-5"
+    ],
+    "RequiredItems": null,
+    "RequiredLevel": -1,
+    "DiscountPercent": 0,
+    "RequiredParentLevel": 0
+}]

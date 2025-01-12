@@ -1,0 +1,64 @@
+﻿[{
+    "Name": "ArcadeRedemptionKeyBatchID",
+    "Value": "0"
+}, {
+    "Name": "AutoPrestige ",
+    "Value": "false"
+}, {
+    "Name": "BehaviorScoreDecayValue",
+    "Value": "5"
+}, {
+    "Name": "BehaviorScoreLeaveValue",
+    "Value": "5"
+}, {
+    "Name": "BehaviorScoreStatID",
+    "Value": "BS"
+}, {
+    "Name": "CollectionsCountMax",
+    "Value": "40"
+}, {
+    "Name": "CollectionsCountMin",
+    "Value": "30"
+}, {
+    "Name": "MatchExperienceMultiplier",
+    "Value": "1"
+}, {
+    "Name": "MatchmakingBonusMultiplier",
+    "Value": "1"
+}, {
+    "Name": "MatchmakingBonusMultiplierThreshold",
+    "Value": "0"
+}, {
+    "Name": "MatchmakingScoreBaseAdjustment",
+    "Value": "10"
+}, {
+    "Name": "MatchmakingScoreDefaultValue",
+    "Value": "1000"
+}, {
+    "Name": "MatchmakingScoreStatID",
+    "Value": "MMR"
+}, {
+    "Name": "MatchmakingV3LatencyMax",
+    "Value": "300.0"
+}, {
+    "Name": "MatchmakingV3LatencyMinThreshold",
+    "Value": "80.0"
+}, {
+    "Name": "MatchmakingV3LatencySecondsToMax",
+    "Value": "90"
+}, {
+    "Name": "MatchmakingV3TicketAgeMaxSeconds",
+    "Value": "1200"
+}, {
+    "Name": "Matchmakingv3TicketAgingThresholdSeconds",
+    "Value": "90"
+}, {
+    "Name": "MatchmakingV3TicketBackfillAgingThresholdSeconds",
+    "Value": "30"
+}, {
+    "Name": "Matchmakingv3TicketP2PAgingThresholdSeconds",
+    "Value": "90"
+}, {
+    "Name": "PrestigeLevelMax",
+    "Value": "5"
+}]

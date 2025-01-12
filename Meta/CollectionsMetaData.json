@@ -1,0 +1,127 @@
+﻿[{
+    "ID": "CL-B",
+    "Name": "Brewery Clippings",
+    "Limit": 1,
+    "MapID": "Brewery",
+    "StatID": "ST-B-CL-B",
+    "Disabled": false,
+    "StatValue": 1,
+    "DropWeight": 1000
+}, {
+    "ID": "CL-CH",
+    "Name": "Courthouse Clippings",
+    "Limit": 1,
+    "MapID": "Courthouse",
+    "StatID": "ST-B-CL-CH",
+    "Disabled": false,
+    "StatValue": 1,
+    "DropWeight": 1000
+}, {
+    "ID": "CL-CL",
+    "Name": "Venue Clippings",
+    "Limit": 1,
+    "MapID": "Venue",
+    "StatID": "ST-B-CL-CL",
+    "Disabled": false,
+    "StatValue": 1,
+    "DropWeight": 1000
+}, {
+    "ID": "CL-FZ",
+    "Name": "Funzone Clippings",
+    "Limit": 1,
+    "MapID": "FunZone",
+    "StatID": "ST-B-CL-FZ",
+    "Disabled": false,
+    "StatValue": 1,
+    "DropWeight": 1000
+}, {
+    "ID": "CL-L",
+    "Name": "Lodge Clippings",
+    "Limit": 1,
+    "MapID": "Lodge",
+    "StatID": "ST-B-CL-L",
+    "Disabled": false,
+    "StatValue": 1,
+    "DropWeight": 1000
+}, {
+    "ID": "CL-M",
+    "Name": "Museum Clippings",
+    "Limit": 1,
+    "MapID": "Museum",
+    "StatID": "ST-B-CL-M",
+    "Disabled": false,
+    "StatValue": 1,
+    "DropWeight": 1000
+}, {
+    "ID": "CL-MF",
+    "Name": "Facility Clippings",
+    "Limit": 1,
+    "MapID": "Facility",
+    "StatID": "ST-B-CL-MF",
+    "Disabled": false,
+    "StatValue": 1,
+    "DropWeight": 1000
+}, {
+    "ID": "CL-P",
+    "Name": "Prison Clippings",
+    "Limit": 1,
+    "MapID": "Prison",
+    "StatID": "ST-B-CL-P",
+    "Disabled": false,
+    "StatValue": 1,
+    "DropWeight": 1000
+}, {
+    "ID": "CL-S",
+    "Name": "Ship Clippings",
+    "Limit": 1,
+    "MapID": "Ship",
+    "StatID": "ST-B-CL-S",
+    "Disabled": false,
+    "StatValue": 1,
+    "DropWeight": 1000
+}, {
+    "ID": "CL-ST",
+    "Name": "Station Clippings",
+    "Limit": 1,
+    "MapID": "Station",
+    "StatID": "ST-B-CL-ST",
+    "Disabled": false,
+    "StatValue": 1,
+    "DropWeight": 1000
+}, {
+    "ID": "F-L",
+    "Name": "Fungi Large",
+    "Limit": 5,
+    "MapID": "",
+    "StatID": "ST-B-25",
+    "Disabled": false,
+    "StatValue": 40,
+    "DropWeight": 10
+}, {
+    "ID": "F-M",
+    "Name": "Fungi Medium",
+    "Limit": 10,
+    "MapID": "",
+    "StatID": "ST-B-25",
+    "Disabled": false,
+    "StatValue": 12,
+    "DropWeight": 30
+}, {
+    "ID": "F-S",
+    "Name": "Fungi Small",
+    "Limit": 15,
+    "MapID": "",
+    "StatID": "ST-B-25",
+    "Disabled": false,
+    "StatValue": 3,
+    "DropWeight": 60
+}, {
+    "ID": "Tobin",
+    "Name": "Tobin Pages",
+    "Limit": 1,
+    "MapID": "",
+    "StatID": "ST-G-48",
+    "Disabled": false,
+    "StatValue": 1,
+    "DropWeight": 1000
+}]

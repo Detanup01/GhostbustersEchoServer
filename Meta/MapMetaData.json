@@ -1,0 +1,133 @@
+﻿[{
+    "ID": "Brewery",
+    "Name": "Brewery",
+    "Path": "/Game/Maps/Brewery/Brewery",
+    "Bounds": [-7000, -7000, -7000,
+        7000,
+        7000,
+        7000
+    ],
+    "Disabled": false,
+    "Matchmaking": true
+}, {
+    "ID": "Courthouse",
+    "Name": "Courthouse",
+    "Path": "/Game/Maps/Courthouse/Courthouse",
+    "Bounds": [-7000, -7000, -7000,
+        7000,
+        7000,
+        7000
+    ],
+    "Disabled": false,
+    "Matchmaking": true
+}, {
+    "ID": "Facility",
+    "Name": "Facility",
+    "Path": "/Game/Maps/Facility/Facility",
+    "Bounds": [-7000, -7000, -7000,
+        7000,
+        7000,
+        7000
+    ],
+    "Disabled": false,
+    "Matchmaking": true
+}, {
+    "ID": "Fracture",
+    "Name": "Fracture",
+    "Path": "/Game/Maps/Fracture/Fracture",
+    "Bounds": [-7000, -7000, -7000,
+        7000,
+        7000,
+        7000
+    ],
+    "Disabled": false,
+    "Matchmaking": false
+}, {
+    "ID": "FunZone",
+    "Name": "FunZone",
+    "Path": "/Game/Maps/Funzone/FunZone",
+    "Bounds": [-7000, -7000, -7000,
+        7000,
+        7000,
+        7000
+    ],
+    "Disabled": false,
+    "Matchmaking": true
+}, {
+    "ID": "Lodge",
+    "Name": "Lodge",
+    "Path": "/Game/Maps/Lodge/Lodge",
+    "Bounds": [-7000, -7000, -7000,
+        7000,
+        7000,
+        7000
+    ],
+    "Disabled": false,
+    "Matchmaking": true
+}, {
+    "ID": "Museum",
+    "Name": "Museum",
+    "Path": "/Game/Maps/Museum/Museum",
+    "Bounds": [-7000, -7000, -7000,
+        7000,
+        7000,
+        7000
+    ],
+    "Disabled": false,
+    "Matchmaking": true
+}, {
+    "ID": "Prison",
+    "Name": "Prison",
+    "Path": "/Game/Maps/Prison/Prison",
+    "Bounds": [-7000, -7000, -7000,
+        7000,
+        7000,
+        7000
+    ],
+    "Disabled": false,
+    "Matchmaking": true
+}, {
+    "ID": "Ship",
+    "Name": "Ship",
+    "Path": "/Game/Maps/Ship/Ship",
+    "Bounds": [-7000, -7000, -7000,
+        7000,
+        7000,
+        7000
+    ],
+    "Disabled": false,
+    "Matchmaking": true
+}, {
+    "ID": "Station",
+    "Name": "Station",
+    "Path": "/Game/Maps/Station/Station",
+    "Bounds": [-7000, -7000, -7000,
+        7000,
+        7000,
+        7000
+    ],
+    "Disabled": false,
+    "Matchmaking": true
+}, {
+    "ID": "Station_Gold",
+    "Name": "Station_Gold",
+    "Path": "/Game/Maps/Station/Station_GoldBounty/Station_GoldBounty_Persistent",
+    "Bounds": [-7000, -7000, -7000,
+        7000,
+        7000,
+        7000
+    ],
+    "Disabled": false,
+    "Matchmaking": false
+}, {
+    "ID": "Venue",
+    "Name": "Venue",
+    "Path": "/Game/Maps/Venue/Venue",
+    "Bounds": [-7000, -7000, -7000,
+        7000,
+        7000,
+        7000
+    ],
+    "Disabled": false,
+    "Matchmaking": true
+}]

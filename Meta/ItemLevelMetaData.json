@@ -1,0 +1,1401 @@
+﻿[{
+    "ID": "Buster-1",
+    "Level": 1,
+    "ToNext": 200,
+    "ItemType": "Buster",
+    "LevelType": "Buster",
+    "Currencies": null,
+    "Experience": 0
+}, {
+    "ID": "Buster-10",
+    "Level": 10,
+    "ToNext": 300,
+    "ItemType": "Buster",
+    "LevelType": "Buster",
+    "Currencies": null,
+    "Experience": 2200
+}, {
+    "ID": "Buster-11",
+    "Level": 11,
+    "ToNext": 300,
+    "ItemType": "Buster",
+    "LevelType": "Buster",
+    "Currencies": null,
+    "Experience": 2500
+}, {
+    "ID": "Buster-12",
+    "Level": 12,
+    "ToNext": 300,
+    "ItemType": "Buster",
+    "LevelType": "Buster",
+    "Currencies": null,
+    "Experience": 2800
+}, {
+    "ID": "Buster-13",
+    "Level": 13,
+    "ToNext": 300,
+    "ItemType": "Buster",
+    "LevelType": "Buster",
+    "Currencies": null,
+    "Experience": 3100
+}, {
+    "ID": "Buster-14",
+    "Level": 14,
+    "ToNext": 300,
+    "ItemType": "Buster",
+    "LevelType": "Buster",
+    "Currencies": null,
+    "Experience": 3400
+}, {
+    "ID": "Buster-15",
+    "Level": 15,
+    "ToNext": 300,
+    "ItemType": "Buster",
+    "LevelType": "Buster",
+    "Currencies": null,
+    "Experience": 3700
+}, {
+    "ID": "Buster-16",
+    "Level": 16,
+    "ToNext": 300,
+    "ItemType": "Buster",
+    "LevelType": "Buster",
+    "Currencies": null,
+    "Experience": 4000
+}, {
+    "ID": "Buster-17",
+    "Level": 17,
+    "ToNext": 300,
+    "ItemType": "Buster",
+    "LevelType": "Buster",
+    "Currencies": null,
+    "Experience": 4300
+}, {
+    "ID": "Buster-18",
+    "Level": 18,
+    "ToNext": 300,
+    "ItemType": "Buster",
+    "LevelType": "Buster",
+    "Currencies": null,
+    "Experience": 4600
+}, {
+    "ID": "Buster-19",
+    "Level": 19,
+    "ToNext": 300,
+    "ItemType": "Buster",
+    "LevelType": "Buster",
+    "Currencies": null,
+    "Experience": 4900
+}, {
+    "ID": "Buster-2",
+    "Level": 2,
+    "ToNext": 250,
+    "ItemType": "Buster",
+    "LevelType": "Buster",
+    "Currencies": null,
+    "Experience": 200
+}, {
+    "ID": "Buster-20",
+    "Level": 20,
+    "ToNext": 500,
+    "ItemType": "Buster",
+    "LevelType": "Buster",
+    "Currencies": null,
+    "Experience": 5200
+}, {
+    "ID": "Buster-21",
+    "Level": 21,
+    "ToNext": 500,
+    "ItemType": "Buster",
+    "LevelType": "Buster",
+    "Currencies": null,
+    "Experience": 5700
+}, {
+    "ID": "Buster-22",
+    "Level": 22,
+    "ToNext": 500,
+    "ItemType": "Buster",
+    "LevelType": "Buster",
+    "Currencies": null,
+    "Experience": 6200
+}, {
+    "ID": "Buster-23",
+    "Level": 23,
+    "ToNext": 500,
+    "ItemType": "Buster",
+    "LevelType": "Buster",
+    "Currencies": null,
+    "Experience": 6700
+}, {
+    "ID": "Buster-24",
+    "Level": 24,
+    "ToNext": 500,
+    "ItemType": "Buster",
+    "LevelType": "Buster",
+    "Currencies": null,
+    "Experience": 7200
+}, {
+    "ID": "Buster-25",
+    "Level": 25,
+    "ToNext": 500,
+    "ItemType": "Buster",
+    "LevelType": "Buster",
+    "Currencies": null,
+    "Experience": 7700
+}, {
+    "ID": "Buster-26",
+    "Level": 26,
+    "ToNext": 500,
+    "ItemType": "Buster",
+    "LevelType": "Buster",
+    "Currencies": null,
+    "Experience": 8200
+}, {
+    "ID": "Buster-27",
+    "Level": 27,
+    "ToNext": 500,
+    "ItemType": "Buster",
+    "LevelType": "Buster",
+    "Currencies": null,
+    "Experience": 8700
+}, {
+    "ID": "Buster-28",
+    "Level": 28,
+    "ToNext": 500,
+    "ItemType": "Buster",
+    "LevelType": "Buster",
+    "Currencies": null,
+    "Experience": 9200
+}, {
+    "ID": "Buster-29",
+    "Level": 29,
+    "ToNext": 500,
+    "ItemType": "Buster",
+    "LevelType": "Buster",
+    "Currencies": null,
+    "Experience": 9700
+}, {
+    "ID": "Buster-3",
+    "Level": 3,
+    "ToNext": 250,
+    "ItemType": "Buster",
+    "LevelType": "Buster",
+    "Currencies": null,
+    "Experience": 450
+}, {
+    "ID": "Buster-30",
+    "Level": 30,
+    "ToNext": 750,
+    "ItemType": "Buster",
+    "LevelType": "Buster",
+    "Currencies": null,
+    "Experience": 10200
+}, {
+    "ID": "Buster-31",
+    "Level": 31,
+    "ToNext": 750,
+    "ItemType": "Buster",
+    "LevelType": "Buster",
+    "Currencies": null,
+    "Experience": 10950
+}, {
+    "ID": "Buster-32",
+    "Level": 32,
+    "ToNext": 750,
+    "ItemType": "Buster",
+    "LevelType": "Buster",
+    "Currencies": null,
+    "Experience": 11700
+}, {
+    "ID": "Buster-33",
+    "Level": 33,
+    "ToNext": 750,
+    "ItemType": "Buster",
+    "LevelType": "Buster",
+    "Currencies": null,
+    "Experience": 12450
+}, {
+    "ID": "Buster-34",
+    "Level": 34,
+    "ToNext": 750,
+    "ItemType": "Buster",
+    "LevelType": "Buster",
+    "Currencies": null,
+    "Experience": 13200
+}, {
+    "ID": "Buster-35",
+    "Level": 35,
+    "ToNext": 750,
+    "ItemType": "Buster",
+    "LevelType": "Buster",
+    "Currencies": null,
+    "Experience": 13950
+}, {
+    "ID": "Buster-36",
+    "Level": 36,
+    "ToNext": 750,
+    "ItemType": "Buster",
+    "LevelType": "Buster",
+    "Currencies": null,
+    "Experience": 14700
+}, {
+    "ID": "Buster-37",
+    "Level": 37,
+    "ToNext": 750,
+    "ItemType": "Buster",
+    "LevelType": "Buster",
+    "Currencies": null,
+    "Experience": 15450
+}, {
+    "ID": "Buster-38",
+    "Level": 38,
+    "ToNext": 750,
+    "ItemType": "Buster",
+    "LevelType": "Buster",
+    "Currencies": null,
+    "Experience": 16200
+}, {
+    "ID": "Buster-39",
+    "Level": 39,
+    "ToNext": 750,
+    "ItemType": "Buster",
+    "LevelType": "Buster",
+    "Currencies": null,
+    "Experience": 16950
+}, {
+    "ID": "Buster-4",
+    "Level": 4,
+    "ToNext": 250,
+    "ItemType": "Buster",
+    "LevelType": "Buster",
+    "Currencies": null,
+    "Experience": 700
+}, {
+    "ID": "Buster-40",
+    "Level": 40,
+    "ToNext": 750,
+    "ItemType": "Buster",
+    "LevelType": "Buster",
+    "Currencies": null,
+    "Experience": 17700
+}, {
+    "ID": "Buster-41",
+    "Level": 41,
+    "ToNext": 750,
+    "ItemType": "Buster",
+    "LevelType": "Buster",
+    "Currencies": null,
+    "Experience": 18450
+}, {
+    "ID": "Buster-42",
+    "Level": 42,
+    "ToNext": 750,
+    "ItemType": "Buster",
+    "LevelType": "Buster",
+    "Currencies": null,
+    "Experience": 19200
+}, {
+    "ID": "Buster-43",
+    "Level": 43,
+    "ToNext": 750,
+    "ItemType": "Buster",
+    "LevelType": "Buster",
+    "Currencies": null,
+    "Experience": 19950
+}, {
+    "ID": "Buster-44",
+    "Level": 44,
+    "ToNext": 750,
+    "ItemType": "Buster",
+    "LevelType": "Buster",
+    "Currencies": null,
+    "Experience": 20700
+}, {
+    "ID": "Buster-45",
+    "Level": 45,
+    "ToNext": 750,
+    "ItemType": "Buster",
+    "LevelType": "Buster",
+    "Currencies": null,
+    "Experience": 21450
+}, {
+    "ID": "Buster-46",
+    "Level": 46,
+    "ToNext": 750,
+    "ItemType": "Buster",
+    "LevelType": "Buster",
+    "Currencies": null,
+    "Experience": 22200
+}, {
+    "ID": "Buster-47",
+    "Level": 47,
+    "ToNext": 750,
+    "ItemType": "Buster",
+    "LevelType": "Buster",
+    "Currencies": null,
+    "Experience": 22950
+}, {
+    "ID": "Buster-48",
+    "Level": 48,
+    "ToNext": 750,
+    "ItemType": "Buster",
+    "LevelType": "Buster",
+    "Currencies": null,
+    "Experience": 23700
+}, {
+    "ID": "Buster-49",
+    "Level": 49,
+    "ToNext": 750,
+    "ItemType": "Buster",
+    "LevelType": "Buster",
+    "Currencies": null,
+    "Experience": 24450
+}, {
+    "ID": "Buster-5",
+    "Level": 5,
+    "ToNext": 250,
+    "ItemType": "Buster",
+    "LevelType": "Buster",
+    "Currencies": null,
+    "Experience": 950
+}, {
+    "ID": "Buster-50",
+    "Level": 50,
+    "ToNext": 750,
+    "ItemType": "Buster",
+    "LevelType": "Buster",
+    "Currencies": null,
+    "Experience": 25200
+}, {
+    "ID": "Buster-6",
+    "Level": 6,
+    "ToNext": 250,
+    "ItemType": "Buster",
+    "LevelType": "Buster",
+    "Currencies": null,
+    "Experience": 1200
+}, {
+    "ID": "Buster-7",
+    "Level": 7,
+    "ToNext": 250,
+    "ItemType": "Buster",
+    "LevelType": "Buster",
+    "Currencies": null,
+    "Experience": 1450
+}, {
+    "ID": "Buster-8",
+    "Level": 8,
+    "ToNext": 250,
+    "ItemType": "Buster",
+    "LevelType": "Buster",
+    "Currencies": null,
+    "Experience": 1700
+}, {
+    "ID": "Buster-9",
+    "Level": 9,
+    "ToNext": 250,
+    "ItemType": "Buster",
+    "LevelType": "Buster",
+    "Currencies": null,
+    "Experience": 1950
+}, {
+    "ID": "Gear25-1",
+    "Level": 1,
+    "ToNext": 30,
+    "ItemType": "Gear25",
+    "LevelType": "Gear25",
+    "Currencies": null,
+    "Experience": 0
+}, {
+    "ID": "Gear25-10",
+    "Level": 10,
+    "ToNext": 75,
+    "ItemType": "Gear25",
+    "LevelType": "Gear25",
+    "Currencies": null,
+    "Experience": 350
+}, {
+    "ID": "Gear25-11",
+    "Level": 11,
+    "ToNext": 75,
+    "ItemType": "Gear25",
+    "LevelType": "Gear25",
+    "Currencies": null,
+    "Experience": 425
+}, {
+    "ID": "Gear25-12",
+    "Level": 12,
+    "ToNext": 75,
+    "ItemType": "Gear25",
+    "LevelType": "Gear25",
+    "Currencies": null,
+    "Experience": 500
+}, {
+    "ID": "Gear25-13",
+    "Level": 13,
+    "ToNext": 75,
+    "ItemType": "Gear25",
+    "LevelType": "Gear25",
+    "Currencies": null,
+    "Experience": 575
+}, {
+    "ID": "Gear25-14",
+    "Level": 14,
+    "ToNext": 75,
+    "ItemType": "Gear25",
+    "LevelType": "Gear25",
+    "Currencies": null,
+    "Experience": 650
+}, {
+    "ID": "Gear25-15",
+    "Level": 15,
+    "ToNext": 75,
+    "ItemType": "Gear25",
+    "LevelType": "Gear25",
+    "Currencies": null,
+    "Experience": 725
+}, {
+    "ID": "Gear25-16",
+    "Level": 16,
+    "ToNext": 75,
+    "ItemType": "Gear25",
+    "LevelType": "Gear25",
+    "Currencies": null,
+    "Experience": 800
+}, {
+    "ID": "Gear25-17",
+    "Level": 17,
+    "ToNext": 75,
+    "ItemType": "Gear25",
+    "LevelType": "Gear25",
+    "Currencies": null,
+    "Experience": 875
+}, {
+    "ID": "Gear25-18",
+    "Level": 18,
+    "ToNext": 75,
+    "ItemType": "Gear25",
+    "LevelType": "Gear25",
+    "Currencies": null,
+    "Experience": 950
+}, {
+    "ID": "Gear25-19",
+    "Level": 19,
+    "ToNext": 75,
+    "ItemType": "Gear25",
+    "LevelType": "Gear25",
+    "Currencies": null,
+    "Experience": 1025
+}, {
+    "ID": "Gear25-2",
+    "Level": 2,
+    "ToNext": 30,
+    "ItemType": "Gear25",
+    "LevelType": "Gear25",
+    "Currencies": null,
+    "Experience": 30
+}, {
+    "ID": "Gear25-20",
+    "Level": 20,
+    "ToNext": 100,
+    "ItemType": "Gear25",
+    "LevelType": "Gear25",
+    "Currencies": null,
+    "Experience": 1100
+}, {
+    "ID": "Gear25-21",
+    "Level": 21,
+    "ToNext": 100,
+    "ItemType": "Gear25",
+    "LevelType": "Gear25",
+    "Currencies": null,
+    "Experience": 1200
+}, {
+    "ID": "Gear25-22",
+    "Level": 22,
+    "ToNext": 100,
+    "ItemType": "Gear25",
+    "LevelType": "Gear25",
+    "Currencies": null,
+    "Experience": 1300
+}, {
+    "ID": "Gear25-23",
+    "Level": 23,
+    "ToNext": 100,
+    "ItemType": "Gear25",
+    "LevelType": "Gear25",
+    "Currencies": null,
+    "Experience": 1400
+}, {
+    "ID": "Gear25-24",
+    "Level": 24,
+    "ToNext": 100,
+    "ItemType": "Gear25",
+    "LevelType": "Gear25",
+    "Currencies": null,
+    "Experience": 1500
+}, {
+    "ID": "Gear25-25",
+    "Level": 25,
+    "ToNext": 100,
+    "ItemType": "Gear25",
+    "LevelType": "Gear25",
+    "Currencies": null,
+    "Experience": 1600
+}, {
+    "ID": "Gear25-3",
+    "Level": 3,
+    "ToNext": 30,
+    "ItemType": "Gear25",
+    "LevelType": "Gear25",
+    "Currencies": null,
+    "Experience": 60
+}, {
+    "ID": "Gear25-4",
+    "Level": 4,
+    "ToNext": 30,
+    "ItemType": "Gear25",
+    "LevelType": "Gear25",
+    "Currencies": null,
+    "Experience": 90
+}, {
+    "ID": "Gear25-5",
+    "Level": 5,
+    "ToNext": 30,
+    "ItemType": "Gear25",
+    "LevelType": "Gear25",
+    "Currencies": null,
+    "Experience": 120
+}, {
+    "ID": "Gear25-6",
+    "Level": 6,
+    "ToNext": 50,
+    "ItemType": "Gear25",
+    "LevelType": "Gear25",
+    "Currencies": null,
+    "Experience": 150
+}, {
+    "ID": "Gear25-7",
+    "Level": 7,
+    "ToNext": 50,
+    "ItemType": "Gear25",
+    "LevelType": "Gear25",
+    "Currencies": null,
+    "Experience": 200
+}, {
+    "ID": "Gear25-8",
+    "Level": 8,
+    "ToNext": 50,
+    "ItemType": "Gear25",
+    "LevelType": "Gear25",
+    "Currencies": null,
+    "Experience": 250
+}, {
+    "ID": "Gear25-9",
+    "Level": 9,
+    "ToNext": 50,
+    "ItemType": "Gear25",
+    "LevelType": "Gear25",
+    "Currencies": null,
+    "Experience": 300
+}, {
+    "ID": "Gear50-1",
+    "Level": 1,
+    "ToNext": 250,
+    "ItemType": "Gear50",
+    "LevelType": "Gear50",
+    "Currencies": null,
+    "Experience": 0
+}, {
+    "ID": "Gear50-10",
+    "Level": 10,
+    "ToNext": 250,
+    "ItemType": "Gear50",
+    "LevelType": "Gear50",
+    "Currencies": null,
+    "Experience": 2250
+}, {
+    "ID": "Gear50-11",
+    "Level": 11,
+    "ToNext": 250,
+    "ItemType": "Gear50",
+    "LevelType": "Gear50",
+    "Currencies": null,
+    "Experience": 2500
+}, {
+    "ID": "Gear50-12",
+    "Level": 12,
+    "ToNext": 250,
+    "ItemType": "Gear50",
+    "LevelType": "Gear50",
+    "Currencies": null,
+    "Experience": 2750
+}, {
+    "ID": "Gear50-13",
+    "Level": 13,
+    "ToNext": 250,
+    "ItemType": "Gear50",
+    "LevelType": "Gear50",
+    "Currencies": null,
+    "Experience": 3000
+}, {
+    "ID": "Gear50-14",
+    "Level": 14,
+    "ToNext": 250,
+    "ItemType": "Gear50",
+    "LevelType": "Gear50",
+    "Currencies": null,
+    "Experience": 3250
+}, {
+    "ID": "Gear50-15",
+    "Level": 15,
+    "ToNext": 250,
+    "ItemType": "Gear50",
+    "LevelType": "Gear50",
+    "Currencies": null,
+    "Experience": 3500
+}, {
+    "ID": "Gear50-16",
+    "Level": 16,
+    "ToNext": 300,
+    "ItemType": "Gear50",
+    "LevelType": "Gear50",
+    "Currencies": null,
+    "Experience": 3750
+}, {
+    "ID": "Gear50-17",
+    "Level": 17,
+    "ToNext": 300,
+    "ItemType": "Gear50",
+    "LevelType": "Gear50",
+    "Currencies": null,
+    "Experience": 4050
+}, {
+    "ID": "Gear50-18",
+    "Level": 18,
+    "ToNext": 300,
+    "ItemType": "Gear50",
+    "LevelType": "Gear50",
+    "Currencies": null,
+    "Experience": 4350
+}, {
+    "ID": "Gear50-19",
+    "Level": 19,
+    "ToNext": 300,
+    "ItemType": "Gear50",
+    "LevelType": "Gear50",
+    "Currencies": null,
+    "Experience": 4650
+}, {
+    "ID": "Gear50-2",
+    "Level": 2,
+    "ToNext": 250,
+    "ItemType": "Gear50",
+    "LevelType": "Gear50",
+    "Currencies": null,
+    "Experience": 250
+}, {
+    "ID": "Gear50-20",
+    "Level": 20,
+    "ToNext": 300,
+    "ItemType": "Gear50",
+    "LevelType": "Gear50",
+    "Currencies": null,
+    "Experience": 4950
+}, {
+    "ID": "Gear50-21",
+    "Level": 21,
+    "ToNext": 300,
+    "ItemType": "Gear50",
+    "LevelType": "Gear50",
+    "Currencies": null,
+    "Experience": 5250
+}, {
+    "ID": "Gear50-22",
+    "Level": 22,
+    "ToNext": 300,
+    "ItemType": "Gear50",
+    "LevelType": "Gear50",
+    "Currencies": null,
+    "Experience": 5550
+}, {
+    "ID": "Gear50-23",
+    "Level": 23,
+    "ToNext": 300,
+    "ItemType": "Gear50",
+    "LevelType": "Gear50",
+    "Currencies": null,
+    "Experience": 5850
+}, {
+    "ID": "Gear50-24",
+    "Level": 24,
+    "ToNext": 300,
+    "ItemType": "Gear50",
+    "LevelType": "Gear50",
+    "Currencies": null,
+    "Experience": 6150
+}, {
+    "ID": "Gear50-25",
+    "Level": 25,
+    "ToNext": 300,
+    "ItemType": "Gear50",
+    "LevelType": "Gear50",
+    "Currencies": null,
+    "Experience": 6450
+}, {
+    "ID": "Gear50-26",
+    "Level": 26,
+    "ToNext": 300,
+    "ItemType": "Gear50",
+    "LevelType": "Gear50",
+    "Currencies": null,
+    "Experience": 6750
+}, {
+    "ID": "Gear50-27",
+    "Level": 27,
+    "ToNext": 300,
+    "ItemType": "Gear50",
+    "LevelType": "Gear50",
+    "Currencies": null,
+    "Experience": 7050
+}, {
+    "ID": "Gear50-28",
+    "Level": 28,
+    "ToNext": 300,
+    "ItemType": "Gear50",
+    "LevelType": "Gear50",
+    "Currencies": null,
+    "Experience": 7350
+}, {
+    "ID": "Gear50-29",
+    "Level": 29,
+    "ToNext": 300,
+    "ItemType": "Gear50",
+    "LevelType": "Gear50",
+    "Currencies": null,
+    "Experience": 7650
+}, {
+    "ID": "Gear50-3",
+    "Level": 3,
+    "ToNext": 250,
+    "ItemType": "Gear50",
+    "LevelType": "Gear50",
+    "Currencies": null,
+    "Experience": 500
+}, {
+    "ID": "Gear50-30",
+    "Level": 30,
+    "ToNext": 400,
+    "ItemType": "Gear50",
+    "LevelType": "Gear50",
+    "Currencies": null,
+    "Experience": 7950
+}, {
+    "ID": "Gear50-31",
+    "Level": 31,
+    "ToNext": 400,
+    "ItemType": "Gear50",
+    "LevelType": "Gear50",
+    "Currencies": null,
+    "Experience": 8350
+}, {
+    "ID": "Gear50-32",
+    "Level": 32,
+    "ToNext": 400,
+    "ItemType": "Gear50",
+    "LevelType": "Gear50",
+    "Currencies": null,
+    "Experience": 8750
+}, {
+    "ID": "Gear50-33",
+    "Level": 33,
+    "ToNext": 400,
+    "ItemType": "Gear50",
+    "LevelType": "Gear50",
+    "Currencies": null,
+    "Experience": 9150
+}, {
+    "ID": "Gear50-34",
+    "Level": 34,
+    "ToNext": 400,
+    "ItemType": "Gear50",
+    "LevelType": "Gear50",
+    "Currencies": null,
+    "Experience": 9550
+}, {
+    "ID": "Gear50-35",
+    "Level": 35,
+    "ToNext": 400,
+    "ItemType": "Gear50",
+    "LevelType": "Gear50",
+    "Currencies": null,
+    "Experience": 9950
+}, {
+    "ID": "Gear50-36",
+    "Level": 36,
+    "ToNext": 400,
+    "ItemType": "Gear50",
+    "LevelType": "Gear50",
+    "Currencies": null,
+    "Experience": 10350
+}, {
+    "ID": "Gear50-37",
+    "Level": 37,
+    "ToNext": 400,
+    "ItemType": "Gear50",
+    "LevelType": "Gear50",
+    "Currencies": null,
+    "Experience": 10750
+}, {
+    "ID": "Gear50-38",
+    "Level": 38,
+    "ToNext": 400,
+    "ItemType": "Gear50",
+    "LevelType": "Gear50",
+    "Currencies": null,
+    "Experience": 11150
+}, {
+    "ID": "Gear50-39",
+    "Level": 39,
+    "ToNext": 400,
+    "ItemType": "Gear50",
+    "LevelType": "Gear50",
+    "Currencies": null,
+    "Experience": 11550
+}, {
+    "ID": "Gear50-4",
+    "Level": 4,
+    "ToNext": 250,
+    "ItemType": "Gear50",
+    "LevelType": "Gear50",
+    "Currencies": null,
+    "Experience": 750
+}, {
+    "ID": "Gear50-40",
+    "Level": 40,
+    "ToNext": 400,
+    "ItemType": "Gear50",
+    "LevelType": "Gear50",
+    "Currencies": null,
+    "Experience": 11950
+}, {
+    "ID": "Gear50-41",
+    "Level": 41,
+    "ToNext": 500,
+    "ItemType": "Gear50",
+    "LevelType": "Gear50",
+    "Currencies": null,
+    "Experience": 12350
+}, {
+    "ID": "Gear50-42",
+    "Level": 42,
+    "ToNext": 500,
+    "ItemType": "Gear50",
+    "LevelType": "Gear50",
+    "Currencies": null,
+    "Experience": 12850
+}, {
+    "ID": "Gear50-43",
+    "Level": 43,
+    "ToNext": 500,
+    "ItemType": "Gear50",
+    "LevelType": "Gear50",
+    "Currencies": null,
+    "Experience": 13350
+}, {
+    "ID": "Gear50-44",
+    "Level": 44,
+    "ToNext": 500,
+    "ItemType": "Gear50",
+    "LevelType": "Gear50",
+    "Currencies": null,
+    "Experience": 13850
+}, {
+    "ID": "Gear50-45",
+    "Level": 45,
+    "ToNext": 500,
+    "ItemType": "Gear50",
+    "LevelType": "Gear50",
+    "Currencies": null,
+    "Experience": 14350
+}, {
+    "ID": "Gear50-46",
+    "Level": 46,
+    "ToNext": 500,
+    "ItemType": "Gear50",
+    "LevelType": "Gear50",
+    "Currencies": null,
+    "Experience": 14850
+}, {
+    "ID": "Gear50-47",
+    "Level": 47,
+    "ToNext": 500,
+    "ItemType": "Gear50",
+    "LevelType": "Gear50",
+    "Currencies": null,
+    "Experience": 15350
+}, {
+    "ID": "Gear50-48",
+    "Level": 48,
+    "ToNext": 500,
+    "ItemType": "Gear50",
+    "LevelType": "Gear50",
+    "Currencies": null,
+    "Experience": 15850
+}, {
+    "ID": "Gear50-49",
+    "Level": 49,
+    "ToNext": 500,
+    "ItemType": "Gear50",
+    "LevelType": "Gear50",
+    "Currencies": null,
+    "Experience": 16350
+}, {
+    "ID": "Gear50-5",
+    "Level": 5,
+    "ToNext": 250,
+    "ItemType": "Gear50",
+    "LevelType": "Gear50",
+    "Currencies": null,
+    "Experience": 1000
+}, {
+    "ID": "Gear50-50",
+    "Level": 50,
+    "ToNext": 500,
+    "ItemType": "Gear50",
+    "LevelType": "Gear50",
+    "Currencies": null,
+    "Experience": 16850
+}, {
+    "ID": "Gear50-6",
+    "Level": 6,
+    "ToNext": 250,
+    "ItemType": "Gear50",
+    "LevelType": "Gear50",
+    "Currencies": null,
+    "Experience": 1250
+}, {
+    "ID": "Gear50-7",
+    "Level": 7,
+    "ToNext": 250,
+    "ItemType": "Gear50",
+    "LevelType": "Gear50",
+    "Currencies": null,
+    "Experience": 1500
+}, {
+    "ID": "Gear50-8",
+    "Level": 8,
+    "ToNext": 250,
+    "ItemType": "Gear50",
+    "LevelType": "Gear50",
+    "Currencies": null,
+    "Experience": 1750
+}, {
+    "ID": "Gear50-9",
+    "Level": 9,
+    "ToNext": 250,
+    "ItemType": "Gear50",
+    "LevelType": "Gear50",
+    "Currencies": null,
+    "Experience": 2000
+}, {
+    "ID": "Ghost-1",
+    "Level": 1,
+    "ToNext": 750,
+    "ItemType": "GhostClass",
+    "LevelType": "GhostClass",
+    "Currencies": null,
+    "Experience": 0
+}, {
+    "ID": "Ghost-10",
+    "Level": 10,
+    "ToNext": 1250,
+    "ItemType": "GhostClass",
+    "LevelType": "GhostClass",
+    "Currencies": null,
+    "Experience": 7750
+}, {
+    "ID": "Ghost-11",
+    "Level": 11,
+    "ToNext": 1250,
+    "ItemType": "GhostClass",
+    "LevelType": "GhostClass",
+    "Currencies": null,
+    "Experience": 9000
+}, {
+    "ID": "Ghost-12",
+    "Level": 12,
+    "ToNext": 1250,
+    "ItemType": "GhostClass",
+    "LevelType": "GhostClass",
+    "Currencies": null,
+    "Experience": 10250
+}, {
+    "ID": "Ghost-13",
+    "Level": 13,
+    "ToNext": 1250,
+    "ItemType": "GhostClass",
+    "LevelType": "GhostClass",
+    "Currencies": null,
+    "Experience": 11500
+}, {
+    "ID": "Ghost-14",
+    "Level": 14,
+    "ToNext": 1250,
+    "ItemType": "GhostClass",
+    "LevelType": "GhostClass",
+    "Currencies": null,
+    "Experience": 12750
+}, {
+    "ID": "Ghost-15",
+    "Level": 15,
+    "ToNext": 1250,
+    "ItemType": "GhostClass",
+    "LevelType": "GhostClass",
+    "Currencies": null,
+    "Experience": 14000
+}, {
+    "ID": "Ghost-16",
+    "Level": 16,
+    "ToNext": 1500,
+    "ItemType": "GhostClass",
+    "LevelType": "GhostClass",
+    "Currencies": null,
+    "Experience": 15250
+}, {
+    "ID": "Ghost-17",
+    "Level": 17,
+    "ToNext": 1500,
+    "ItemType": "GhostClass",
+    "LevelType": "GhostClass",
+    "Currencies": null,
+    "Experience": 16750
+}, {
+    "ID": "Ghost-18",
+    "Level": 18,
+    "ToNext": 1500,
+    "ItemType": "GhostClass",
+    "LevelType": "GhostClass",
+    "Currencies": null,
+    "Experience": 18250
+}, {
+    "ID": "Ghost-19",
+    "Level": 19,
+    "ToNext": 1500,
+    "ItemType": "GhostClass",
+    "LevelType": "GhostClass",
+    "Currencies": null,
+    "Experience": 19750
+}, {
+    "ID": "Ghost-2",
+    "Level": 2,
+    "ToNext": 750,
+    "ItemType": "GhostClass",
+    "LevelType": "GhostClass",
+    "Currencies": null,
+    "Experience": 750
+}, {
+    "ID": "Ghost-20",
+    "Level": 20,
+    "ToNext": 1500,
+    "ItemType": "GhostClass",
+    "LevelType": "GhostClass",
+    "Currencies": null,
+    "Experience": 21250
+}, {
+    "ID": "Ghost-21",
+    "Level": 21,
+    "ToNext": 2000,
+    "ItemType": "GhostClass",
+    "LevelType": "GhostClass",
+    "Currencies": null,
+    "Experience": 22750
+}, {
+    "ID": "Ghost-22",
+    "Level": 22,
+    "ToNext": 2000,
+    "ItemType": "GhostClass",
+    "LevelType": "GhostClass",
+    "Currencies": null,
+    "Experience": 24750
+}, {
+    "ID": "Ghost-23",
+    "Level": 23,
+    "ToNext": 2000,
+    "ItemType": "GhostClass",
+    "LevelType": "GhostClass",
+    "Currencies": null,
+    "Experience": 26750
+}, {
+    "ID": "Ghost-24",
+    "Level": 24,
+    "ToNext": 2000,
+    "ItemType": "GhostClass",
+    "LevelType": "GhostClass",
+    "Currencies": null,
+    "Experience": 28750
+}, {
+    "ID": "Ghost-25",
+    "Level": 25,
+    "ToNext": 2000,
+    "ItemType": "GhostClass",
+    "LevelType": "GhostClass",
+    "Currencies": null,
+    "Experience": 30750
+}, {
+    "ID": "Ghost-26",
+    "Level": 26,
+    "ToNext": 2000,
+    "ItemType": "GhostClass",
+    "LevelType": "GhostClass",
+    "Currencies": null,
+    "Experience": 32750
+}, {
+    "ID": "Ghost-27",
+    "Level": 27,
+    "ToNext": 2000,
+    "ItemType": "GhostClass",
+    "LevelType": "GhostClass",
+    "Currencies": null,
+    "Experience": 34750
+}, {
+    "ID": "Ghost-28",
+    "Level": 28,
+    "ToNext": 2000,
+    "ItemType": "GhostClass",
+    "LevelType": "GhostClass",
+    "Currencies": null,
+    "Experience": 36750
+}, {
+    "ID": "Ghost-29",
+    "Level": 29,
+    "ToNext": 2000,
+    "ItemType": "GhostClass",
+    "LevelType": "GhostClass",
+    "Currencies": null,
+    "Experience": 38750
+}, {
+    "ID": "Ghost-3",
+    "Level": 3,
+    "ToNext": 750,
+    "ItemType": "GhostClass",
+    "LevelType": "GhostClass",
+    "Currencies": null,
+    "Experience": 1500
+}, {
+    "ID": "Ghost-30",
+    "Level": 30,
+    "ToNext": 2000,
+    "ItemType": "GhostClass",
+    "LevelType": "GhostClass",
+    "Currencies": null,
+    "Experience": 40750
+}, {
+    "ID": "Ghost-31",
+    "Level": 31,
+    "ToNext": 2000,
+    "ItemType": "GhostClass",
+    "LevelType": "GhostClass",
+    "Currencies": null,
+    "Experience": 42750
+}, {
+    "ID": "Ghost-32",
+    "Level": 32,
+    "ToNext": 2000,
+    "ItemType": "GhostClass",
+    "LevelType": "GhostClass",
+    "Currencies": null,
+    "Experience": 44750
+}, {
+    "ID": "Ghost-33",
+    "Level": 33,
+    "ToNext": 2000,
+    "ItemType": "GhostClass",
+    "LevelType": "GhostClass",
+    "Currencies": null,
+    "Experience": 46750
+}, {
+    "ID": "Ghost-34",
+    "Level": 34,
+    "ToNext": 2000,
+    "ItemType": "GhostClass",
+    "LevelType": "GhostClass",
+    "Currencies": null,
+    "Experience": 48750
+}, {
+    "ID": "Ghost-35",
+    "Level": 35,
+    "ToNext": 2000,
+    "ItemType": "GhostClass",
+    "LevelType": "GhostClass",
+    "Currencies": null,
+    "Experience": 50750
+}, {
+    "ID": "Ghost-36",
+    "Level": 36,
+    "ToNext": 2000,
+    "ItemType": "GhostClass",
+    "LevelType": "GhostClass",
+    "Currencies": null,
+    "Experience": 52750
+}, {
+    "ID": "Ghost-37",
+    "Level": 37,
+    "ToNext": 2000,
+    "ItemType": "GhostClass",
+    "LevelType": "GhostClass",
+    "Currencies": null,
+    "Experience": 54750
+}, {
+    "ID": "Ghost-38",
+    "Level": 38,
+    "ToNext": 2000,
+    "ItemType": "GhostClass",
+    "LevelType": "GhostClass",
+    "Currencies": null,
+    "Experience": 56750
+}, {
+    "ID": "Ghost-39",
+    "Level": 39,
+    "ToNext": 2000,
+    "ItemType": "GhostClass",
+    "LevelType": "GhostClass",
+    "Currencies": null,
+    "Experience": 58750
+}, {
+    "ID": "Ghost-4",
+    "Level": 4,
+    "ToNext": 750,
+    "ItemType": "GhostClass",
+    "LevelType": "GhostClass",
+    "Currencies": null,
+    "Experience": 2250
+}, {
+    "ID": "Ghost-40",
+    "Level": 40,
+    "ToNext": 2500,
+    "ItemType": "GhostClass",
+    "LevelType": "GhostClass",
+    "Currencies": null,
+    "Experience": 60750
+}, {
+    "ID": "Ghost-41",
+    "Level": 41,
+    "ToNext": 2500,
+    "ItemType": "GhostClass",
+    "LevelType": "GhostClass",
+    "Currencies": null,
+    "Experience": 63250
+}, {
+    "ID": "Ghost-42",
+    "Level": 42,
+    "ToNext": 2500,
+    "ItemType": "GhostClass",
+    "LevelType": "GhostClass",
+    "Currencies": null,
+    "Experience": 65750
+}, {
+    "ID": "Ghost-43",
+    "Level": 43,
+    "ToNext": 2500,
+    "ItemType": "GhostClass",
+    "LevelType": "GhostClass",
+    "Currencies": null,
+    "Experience": 68250
+}, {
+    "ID": "Ghost-44",
+    "Level": 44,
+    "ToNext": 2500,
+    "ItemType": "GhostClass",
+    "LevelType": "GhostClass",
+    "Currencies": null,
+    "Experience": 70750
+}, {
+    "ID": "Ghost-45",
+    "Level": 45,
+    "ToNext": 2500,
+    "ItemType": "GhostClass",
+    "LevelType": "GhostClass",
+    "Currencies": null,
+    "Experience": 73250
+}, {
+    "ID": "Ghost-46",
+    "Level": 46,
+    "ToNext": 2500,
+    "ItemType": "GhostClass",
+    "LevelType": "GhostClass",
+    "Currencies": null,
+    "Experience": 75750
+}, {
+    "ID": "Ghost-47",
+    "Level": 47,
+    "ToNext": 2500,
+    "ItemType": "GhostClass",
+    "LevelType": "GhostClass",
+    "Currencies": null,
+    "Experience": 78250
+}, {
+    "ID": "Ghost-48",
+    "Level": 48,
+    "ToNext": 2500,
+    "ItemType": "GhostClass",
+    "LevelType": "GhostClass",
+    "Currencies": null,
+    "Experience": 80750
+}, {
+    "ID": "Ghost-49",
+    "Level": 49,
+    "ToNext": 2500,
+    "ItemType": "GhostClass",
+    "LevelType": "GhostClass",
+    "Currencies": null,
+    "Experience": 83250
+}, {
+    "ID": "Ghost-5",
+    "Level": 5,
+    "ToNext": 750,
+    "ItemType": "GhostClass",
+    "LevelType": "GhostClass",
+    "Currencies": null,
+    "Experience": 3000
+}, {
+    "ID": "Ghost-50",
+    "Level": 50,
+    "ToNext": 2500,
+    "ItemType": "GhostClass",
+    "LevelType": "GhostClass",
+    "Currencies": null,
+    "Experience": 85750
+}, {
+    "ID": "Ghost-6",
+    "Level": 6,
+    "ToNext": 1000,
+    "ItemType": "GhostClass",
+    "LevelType": "GhostClass",
+    "Currencies": null,
+    "Experience": 3750
+}, {
+    "ID": "Ghost-7",
+    "Level": 7,
+    "ToNext": 1000,
+    "ItemType": "GhostClass",
+    "LevelType": "GhostClass",
+    "Currencies": null,
+    "Experience": 4750
+}, {
+    "ID": "Ghost-8",
+    "Level": 8,
+    "ToNext": 1000,
+    "ItemType": "GhostClass",
+    "LevelType": "GhostClass",
+    "Currencies": null,
+    "Experience": 5750
+}, {
+    "ID": "Ghost-9",
+    "Level": 9,
+    "ToNext": 1000,
+    "ItemType": "GhostClass",
+    "LevelType": "GhostClass",
+    "Currencies": null,
+    "Experience": 6750
+}]

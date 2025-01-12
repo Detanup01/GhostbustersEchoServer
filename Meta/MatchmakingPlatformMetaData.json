@@ -1,0 +1,29 @@
+﻿[{
+    "Platform": "EOS",
+    "CompatibleP2P": "",
+    "CompatibleDedicated": "PS4,PS5,STEAM,GDK,SWITCH"
+}, {
+    "Platform": "GDK",
+    "CompatibleP2P": "",
+    "CompatibleDedicated": "EOS,PS4,PS5,STEAM,SWITCH"
+}, {
+    "Platform": "PS4",
+    "CompatibleP2P": "PS5",
+    "CompatibleDedicated": "EOS,PS5,STEAM,GDK,SWITCH"
+}, {
+    "Platform": "PS5",
+    "CompatibleP2P": "PS4",
+    "CompatibleDedicated": "EOS,PS4,STEAM,GDK,SWITCH"
+}, {
+    "Platform": "STEAM",
+    "CompatibleP2P": "",
+    "CompatibleDedicated": "EOS,PS5,PS4,GDK,SWITCH"
+}, {
+    "Platform": "SWITCH",
+    "CompatibleP2P": "",
+    "CompatibleDedicated": "EOS,PS4,PS5,STEAM,GDK"
+}, {
+    "Platform": "TEST",
+    "CompatibleP2P": "",
+    "CompatibleDedicated": ""
+}]
